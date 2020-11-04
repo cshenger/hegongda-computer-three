@@ -2,3 +2,9 @@
 
 > 先占坑，后面慢慢填
 
+访问这个地址： https://cshenger.github.io/hegongda-computer-three/page/#/Assembly
+
+项目： https://github.com/cshenger/hegongda-computer-three
+
+别问，问我，我就叫雷锋
+
