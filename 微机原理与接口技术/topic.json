@@ -1,0 +1,1302 @@
+{
+	"data": "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",
+	"debugData": {
+		"LastItemNo": 28,
+		"mallInfoList": [{
+			"itemNo": 1,
+			"smallItemId": 6202610,
+			"samllItemName": "若各中断源的优先级是一样的，则可用自动循环优先级来实现。",
+			"optionNodes": [{
+				"option": "A",
+				"optionContent": "正确"
+			}, {
+				"option": "B",
+				"optionContent": "错误"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "A",
+				"myOption": "",
+				"subjectOrder": "01",
+				"status": "",
+				"smallStatus": 0
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 2,
+			"smallItemId": 6202609,
+			"samllItemName": "最小模式下8086/8088读总线操作时序和写总线操作时序中的DT/R信号波形基本相同。",
+			"optionNodes": [{
+				"option": "A",
+				"optionContent": "正确"
+			}, {
+				"option": "B",
+				"optionContent": "错误"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "A",
+				"myOption": "",
+				"subjectOrder": "01",
+				"status": "",
+				"smallStatus": 0
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 3,
+			"smallItemId": 6202608,
+			"samllItemName": "A/D转换器是将数字量变成模拟量的器件。",
+			"optionNodes": [{
+				"option": "A",
+				"optionContent": "正确"
+			}, {
+				"option": "B",
+				"optionContent": "错误"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "B",
+				"myOption": "",
+				"subjectOrder": "01",
+				"status": "",
+				"smallStatus": 0
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 4,
+			"smallItemId": 6202607,
+			"samllItemName": "CPU响应可屏蔽中断时，无须从数据总线上读取中断类型码。",
+			"optionNodes": [{
+				"option": "A",
+				"optionContent": "错误"
+			}, {
+				"option": "B",
+				"optionContent": "正确"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "A",
+				"myOption": "",
+				"subjectOrder": "10",
+				"status": "",
+				"smallStatus": 0
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 5,
+			"smallItemId": 6202606,
+			"samllItemName": "采用直接寻址输入/输出指令的最大端口地址为0FFH。",
+			"optionNodes": [{
+				"option": "A",
+				"optionContent": "正确"
+			}, {
+				"option": "B",
+				"optionContent": "错误"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "A",
+				"myOption": "",
+				"subjectOrder": "01",
+				"status": "",
+				"smallStatus": 0
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 6,
+			"smallItemId": 6202605,
+			"samllItemName": "8225A的“端口C置1/置0控制字”不能写入其控制寄存器中。",
+			"optionNodes": [{
+				"option": "A",
+				"optionContent": "错误"
+			}, {
+				"option": "B",
+				"optionContent": "正确"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "A",
+				"myOption": "",
+				"subjectOrder": "10",
+				"status": "",
+				"smallStatus": 0
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 7,
+			"smallItemId": 6202604,
+			"samllItemName": "ROM必须定时刷新，否则所存信息就会丢失。",
+			"optionNodes": [{
+				"option": "A",
+				"optionContent": "错误"
+			}, {
+				"option": "B",
+				"optionContent": "正确"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "A",
+				"myOption": "",
+				"subjectOrder": "10",
+				"status": "",
+				"smallStatus": 0
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 8,
+			"smallItemId": 6202603,
+			"samllItemName": "在串行异步通信中，停止位的作用表示全部数据传送完毕，接收方在收到停止位信号以后，就不再去接收串行数据。",
+			"optionNodes": [{
+				"option": "A",
+				"optionContent": "正确"
+			}, {
+				"option": "B",
+				"optionContent": "错误"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "B",
+				"myOption": "",
+				"subjectOrder": "01",
+				"status": "",
+				"smallStatus": 0
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 9,
+			"smallItemId": 6202602,
+			"samllItemName": "对8086/8088系统，中断类型码的大小与中断优先级高低无关。",
+			"optionNodes": [{
+				"option": "A",
+				"optionContent": "错误"
+			}, {
+				"option": "B",
+				"optionContent": "正确"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "B",
+				"myOption": "",
+				"subjectOrder": "10",
+				"status": "",
+				"smallStatus": 0
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 10,
+			"smallItemId": 6202601,
+			"samllItemName": "在第三代计算机期间出现了操作系统。",
+			"optionNodes": [{
+				"option": "A",
+				"optionContent": "错误"
+			}, {
+				"option": "B",
+				"optionContent": "正确"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "B",
+				"myOption": "",
+				"subjectOrder": "10",
+				"status": "",
+				"smallStatus": 0
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 11,
+			"smallItemId": 6202600,
+			"samllItemName": "一片8259A中断控制器最多能接收8个中断源。",
+			"optionNodes": [{
+				"option": "A",
+				"optionContent": "正确"
+			}, {
+				"option": "B",
+				"optionContent": "错误"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "A",
+				"myOption": "",
+				"subjectOrder": "01",
+				"status": "",
+				"smallStatus": 0
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 12,
+			"smallItemId": 6202599,
+			"samllItemName": "要对8255A的端口C的某一位进行置位/复位设置，可对端口C写入相应的控制字来实现。",
+			"optionNodes": [{
+				"option": "A",
+				"optionContent": "正确"
+			}, {
+				"option": "B",
+				"optionContent": "错误"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "B",
+				"myOption": "",
+				"subjectOrder": "01",
+				"status": "",
+				"smallStatus": 0
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 13,
+			"smallItemId": 6202598,
+			"samllItemName": "8250的溢出错误指示CPU还未取走前一个数据,接收移位寄存器又将接收到的一个新数据送至输入缓冲器。",
+			"optionNodes": [{
+				"option": "A",
+				"optionContent": "正确"
+			}, {
+				"option": "B",
+				"optionContent": "错误"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "A",
+				"myOption": "",
+				"subjectOrder": "01",
+				"status": "",
+				"smallStatus": 0
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 14,
+			"smallItemId": 6202597,
+			"samllItemName": "在8088系统（最小组态）中,执行指令”MOV[2000H],AX”需1个总线周期。",
+			"optionNodes": [{
+				"option": "A",
+				"optionContent": "错误"
+			}, {
+				"option": "B",
+				"optionContent": "正确"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "A",
+				"myOption": "",
+				"subjectOrder": "10",
+				"status": "",
+				"smallStatus": 0
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 15,
+			"smallItemId": 6202596,
+			"samllItemName": "8086可寻址的存贮器地址空间为1MB。",
+			"optionNodes": [{
+				"option": "A",
+				"optionContent": "正确"
+			}, {
+				"option": "B",
+				"optionContent": "错误"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "A",
+				"myOption": "",
+				"subjectOrder": "01",
+				"status": "",
+				"smallStatus": 0
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 16,
+			"smallItemId": 6202595,
+			"samllItemName": "1片8259A有7个8位的寄存器。",
+			"optionNodes": [{
+				"option": "A",
+				"optionContent": "正确"
+			}, {
+				"option": "B",
+				"optionContent": "错误"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "A",
+				"myOption": "",
+				"subjectOrder": "01",
+				"status": "",
+				"smallStatus": 0
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 17,
+			"smallItemId": 6202594,
+			"samllItemName": "对于种类不同的计算机，其机器指令系统都是相同的。",
+			"optionNodes": [{
+				"option": "A",
+				"optionContent": "正确"
+			}, {
+				"option": "B",
+				"optionContent": "错误"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "B",
+				"myOption": "",
+				"subjectOrder": "01",
+				"status": "",
+				"smallStatus": 0
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 18,
+			"smallItemId": 6202593,
+			"samllItemName": "在计算机中，数据单位bit的意思是字节。",
+			"optionNodes": [{
+				"option": "A",
+				"optionContent": "正确"
+			}, {
+				"option": "B",
+				"optionContent": "错误"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "B",
+				"myOption": "",
+				"subjectOrder": "01",
+				"status": "",
+				"smallStatus": 0
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 19,
+			"smallItemId": 6202592,
+			"samllItemName": "八进制数的基数为8，因此在八进制数中可以使用的数字符号是0、1、2、3、4、5、6、7、8。",
+			"optionNodes": [{
+				"option": "A",
+				"optionContent": "错误"
+			}, {
+				"option": "B",
+				"optionContent": "正确"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "A",
+				"myOption": "",
+				"subjectOrder": "10",
+				"status": "",
+				"smallStatus": 0
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 20,
+			"smallItemId": 6202591,
+			"samllItemName": "在汉字国标码GB2312-80的字符集中，共收集了6763个常用汉字。",
+			"optionNodes": [{
+				"option": "A",
+				"optionContent": "错误"
+			}, {
+				"option": "B",
+				"optionContent": "正确"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "B",
+				"myOption": "",
+				"subjectOrder": "10",
+				"status": "",
+				"smallStatus": 0
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 21,
+			"smallItemId": 6202590,
+			"samllItemName": "8086CPU在读/写总线周期的T3状态结束对READY线采样,如果READY为低电平,则在T3与T4状态之间插入等待状态TW。",
+			"optionNodes": [{
+				"option": "A",
+				"optionContent": "错误"
+			}, {
+				"option": "B",
+				"optionContent": "正确"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "A",
+				"myOption": "",
+				"subjectOrder": "10",
+				"status": "",
+				"smallStatus": 0
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 22,
+			"smallItemId": 6202589,
+			"samllItemName": "在8253的方式控制字中,有一项计数锁存操作,其作用是暂停计数器的计数。",
+			"optionNodes": [{
+				"option": "A",
+				"optionContent": "错误"
+			}, {
+				"option": "B",
+				"optionContent": "正确"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "A",
+				"myOption": "",
+				"subjectOrder": "10",
+				"status": "",
+				"smallStatus": 0
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 23,
+			"smallItemId": 6202588,
+			"samllItemName": "DMA控制器8237A现行字节数寄存器的值减到0时,终止计数。",
+			"optionNodes": [{
+				"option": "A",
+				"optionContent": "正确"
+			}, {
+				"option": "B",
+				"optionContent": "错误"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "B",
+				"myOption": "",
+				"subjectOrder": "01",
+				"status": "",
+				"smallStatus": 0
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 24,
+			"smallItemId": 6202587,
+			"samllItemName": "指令一般包括两部分：操作码和操作数。",
+			"optionNodes": [{
+				"option": "A",
+				"optionContent": "正确"
+			}, {
+				"option": "B",
+				"optionContent": "错误"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "A",
+				"myOption": "",
+				"subjectOrder": "01",
+				"status": "",
+				"smallStatus": 0
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 25,
+			"smallItemId": 6202586,
+			"samllItemName": "一个总线周期有一个或若干个指令周期组成。",
+			"optionNodes": [{
+				"option": "A",
+				"optionContent": "错误"
+			}, {
+				"option": "B",
+				"optionContent": "正确"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "A",
+				"myOption": "",
+				"subjectOrder": "10",
+				"status": "",
+				"smallStatus": 0
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 26,
+			"smallItemId": 6202585,
+			"samllItemName": "8086有一个16位标志寄存器，它包含了6个状态标志位和3个控制标志位。",
+			"optionNodes": [{
+				"option": "A",
+				"optionContent": "正确"
+			}, {
+				"option": "B",
+				"optionContent": "错误"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "A",
+				"myOption": "",
+				"subjectOrder": "01",
+				"status": "",
+				"smallStatus": 0
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 27,
+			"smallItemId": 6202583,
+			"samllItemName": "MCS-51系列芯片复位后堆栈设置成从07H单元开始使用。",
+			"optionNodes": [{
+				"option": "A",
+				"optionContent": "正确"
+			}, {
+				"option": "B",
+				"optionContent": "错误"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "B",
+				"myOption": "",
+				"subjectOrder": "01",
+				"status": "",
+				"smallStatus": 0
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 28,
+			"smallItemId": 6202582,
+			"samllItemName": "MCS-51中工作寄存器R7的实际物理地址与PSW中内容有关。",
+			"optionNodes": [{
+				"option": "A",
+				"optionContent": "错误"
+			}, {
+				"option": "B",
+				"optionContent": "正确"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "B",
+				"myOption": "B",
+				"subjectOrder": "10",
+				"status": "1",
+				"smallStatus": 1
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 29,
+			"smallItemId": 6202581,
+			"samllItemName": "DA A指令只能用在减法指令之后起到十进制调整的作用。",
+			"optionNodes": [{
+				"option": "A",
+				"optionContent": "错误"
+			}, {
+				"option": "B",
+				"optionContent": "正确"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "A",
+				"myOption": "",
+				"subjectOrder": "10",
+				"status": "",
+				"smallStatus": 0
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 30,
+			"smallItemId": 6202580,
+			"samllItemName": "使用8031的MCS-51系统其EA引脚必须接地。",
+			"optionNodes": [{
+				"option": "A",
+				"optionContent": "错误"
+			}, {
+				"option": "B",
+				"optionContent": "正确"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "B",
+				"myOption": "",
+				"subjectOrder": "10",
+				"status": "",
+				"smallStatus": 0
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 31,
+			"smallItemId": 6202579,
+			"samllItemName": "中断服务程序的最后一条指令是RET。",
+			"optionNodes": [{
+				"option": "A",
+				"optionContent": "正确"
+			}, {
+				"option": "B",
+				"optionContent": "错误"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "B",
+				"myOption": "",
+				"subjectOrder": "01",
+				"status": "",
+				"smallStatus": 0
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 32,
+			"smallItemId": 6202578,
+			"samllItemName": "P2口既可以作为I/O使用，又可以作地址/数据复用口使用。",
+			"optionNodes": [{
+				"option": "A",
+				"optionContent": "错误"
+			}, {
+				"option": "B",
+				"optionContent": "正确"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "A",
+				"myOption": "",
+				"subjectOrder": "10",
+				"status": "",
+				"smallStatus": 0
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 33,
+			"smallItemId": 6202577,
+			"samllItemName": "MOV A，30H的源操作数为立即寻址方式。",
+			"optionNodes": [{
+				"option": "A",
+				"optionContent": "正确"
+			}, {
+				"option": "B",
+				"optionContent": "错误"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "B",
+				"myOption": "",
+				"subjectOrder": "01",
+				"status": "",
+				"smallStatus": 0
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 34,
+			"smallItemId": 6202576,
+			"samllItemName": "MOV A,@A+DPTR是一条查表指令。",
+			"optionNodes": [{
+				"option": "A",
+				"optionContent": "错误"
+			}, {
+				"option": "B",
+				"optionContent": "正确"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "A",
+				"myOption": "",
+				"subjectOrder": "10",
+				"status": "",
+				"smallStatus": 0
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 35,
+			"smallItemId": 6202575,
+			"samllItemName": "MUL AB的执行结果是高8位在A中，低8?位在B中。",
+			"optionNodes": [{
+				"option": "A",
+				"optionContent": "错误"
+			}, {
+				"option": "B",
+				"optionContent": "正确"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "A",
+				"myOption": "",
+				"subjectOrder": "10",
+				"status": "",
+				"smallStatus": 0
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 36,
+			"smallItemId": 6202572,
+			"samllItemName": "8251的数据口寄存器和状态?口寄存器共用一个端口地址。",
+			"optionNodes": [{
+				"option": "A",
+				"optionContent": "错误"
+			}, {
+				"option": "B",
+				"optionContent": "正确"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "A",
+				"myOption": "",
+				"subjectOrder": "10",
+				"status": "",
+				"smallStatus": 0
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 37,
+			"smallItemId": 6202571,
+			"samllItemName": "堆栈操作应满足先进先出原则。",
+			"optionNodes": [{
+				"option": "A",
+				"optionContent": "正确"
+			}, {
+				"option": "B",
+				"optionContent": "错误"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "B",
+				"myOption": "",
+				"subjectOrder": "01",
+				"status": "",
+				"smallStatus": 0
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 38,
+			"smallItemId": 6202570,
+			"samllItemName": "CPU在未执行完当前指令的情况下，就可响应可屏蔽中断请求。",
+			"optionNodes": [{
+				"option": "A",
+				"optionContent": "正确"
+			}, {
+				"option": "B",
+				"optionContent": "错误"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "B",
+				"myOption": "",
+				"subjectOrder": "01",
+				"status": "",
+				"smallStatus": 0
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 39,
+			"smallItemId": 6202569,
+			"samllItemName": "8086CPU标志寄存器共有16位，每一位都有含义。",
+			"optionNodes": [{
+				"option": "A",
+				"optionContent": "错误"
+			}, {
+				"option": "B",
+				"optionContent": "正确"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "A",
+				"myOption": "",
+				"subjectOrder": "10",
+				"status": "",
+				"smallStatus": 0
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 40,
+			"smallItemId": 6202568,
+			"samllItemName": "条件转移指令只能用于段内直接短转移。",
+			"optionNodes": [{
+				"option": "A",
+				"optionContent": "正确"
+			}, {
+				"option": "B",
+				"optionContent": "错误"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "A",
+				"myOption": "",
+				"subjectOrder": "01",
+				"status": "",
+				"smallStatus": 0
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 41,
+			"smallItemId": 6202567,
+			"samllItemName": "控制器的基本功能是：由程序计数器PC控制程序的有序运行，并完成各种算术逻辑运算。",
+			"optionNodes": [{
+				"option": "A",
+				"optionContent": "错误"
+			}, {
+				"option": "B",
+				"optionContent": "正确"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "A",
+				"myOption": "",
+				"subjectOrder": "10",
+				"status": "",
+				"smallStatus": 0
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 42,
+			"smallItemId": 6202566,
+			"samllItemName": "在8259A级连系统中，作为主片的8259A的某些IR引脚连接从片，同时也可以在另一些IR引脚上直接连接外设的中断请求信号端。",
+			"optionNodes": [{
+				"option": "A",
+				"optionContent": "正确"
+			}, {
+				"option": "B",
+				"optionContent": "错误"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "A",
+				"myOption": "",
+				"subjectOrder": "01",
+				"status": "",
+				"smallStatus": 0
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 43,
+			"smallItemId": 6202565,
+			"samllItemName": "8086的中断分为可屏蔽中断和不可屏蔽中断两种。",
+			"optionNodes": [{
+				"option": "A",
+				"optionContent": "正确"
+			}, {
+				"option": "B",
+				"optionContent": "错误"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "B",
+				"myOption": "",
+				"subjectOrder": "01",
+				"status": "",
+				"smallStatus": 0
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 44,
+			"smallItemId": 6202564,
+			"samllItemName": "串行接口中“串行”的含意仅指接口与外设之间的数据交换是串行的，而接口与CPU之间的数据交换仍是并行的。",
+			"optionNodes": [{
+				"option": "A",
+				"optionContent": "错误"
+			}, {
+				"option": "B",
+				"optionContent": "正确"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "B",
+				"myOption": "",
+				"subjectOrder": "10",
+				"status": "",
+				"smallStatus": 0
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 45,
+			"smallItemId": 6202563,
+			"samllItemName": "字长一定的情况下，原码、反码和补码所能表示的二进制真值范围是相同的。",
+			"optionNodes": [{
+				"option": "A",
+				"optionContent": "错误"
+			}, {
+				"option": "B",
+				"optionContent": "正确"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "A",
+				"myOption": "",
+				"subjectOrder": "10",
+				"status": "",
+				"smallStatus": 0
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 46,
+			"smallItemId": 6202562,
+			"samllItemName": "所有进位计数制，其整数部分最低位的位权都是1。",
+			"optionNodes": [{
+				"option": "A",
+				"optionContent": "错误"
+			}, {
+				"option": "B",
+				"optionContent": "正确"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "B",
+				"myOption": "",
+				"subjectOrder": "10",
+				"status": "",
+				"smallStatus": 0
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 47,
+			"smallItemId": 6202561,
+			"samllItemName": "8086的可屏蔽中断的优先级高于不可屏蔽中断。",
+			"optionNodes": [{
+				"option": "A",
+				"optionContent": "错误"
+			}, {
+				"option": "B",
+				"optionContent": "正确"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "A",
+				"myOption": "",
+				"subjectOrder": "10",
+				"status": "",
+				"smallStatus": 0
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 48,
+			"smallItemId": 6202560,
+			"samllItemName": "通常8259A芯片中的IR0优先级最低,IR7的优先级最高。",
+			"optionNodes": [{
+				"option": "A",
+				"optionContent": "正确"
+			}, {
+				"option": "B",
+				"optionContent": "错误"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "B",
+				"myOption": "",
+				"subjectOrder": "01",
+				"status": "",
+				"smallStatus": 0
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 49,
+			"smallItemId": 6202559,
+			"samllItemName": "在8088系统中,所谓中断向量就是中断服务程序入口地址。",
+			"optionNodes": [{
+				"option": "A",
+				"optionContent": "错误"
+			}, {
+				"option": "B",
+				"optionContent": "正确"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "B",
+				"myOption": "",
+				"subjectOrder": "10",
+				"status": "",
+				"smallStatus": 0
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 50,
+			"smallItemId": 6202357,
+			"samllItemName": "AJMP跳转空间最大可达到64KB?。",
+			"optionNodes": [{
+				"option": "A",
+				"optionContent": "错误"
+			}, {
+				"option": "B",
+				"optionContent": "正确"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "A",
+				"myOption": "",
+				"subjectOrder": "10",
+				"status": "",
+				"smallStatus": 0
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 51,
+			"smallItemId": 6202356,
+			"samllItemName": "DPTR是由DPH和DPL两个8位特殊寄存器组成的。",
+			"optionNodes": [{
+				"option": "A",
+				"optionContent": "错误"
+			}, {
+				"option": "B",
+				"optionContent": "正确"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "B",
+				"myOption": "",
+				"subjectOrder": "10",
+				"status": "",
+				"smallStatus": 0
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 52,
+			"smallItemId": 6202355,
+			"samllItemName": "汇编语言源程序中的伪指令汇编成目标程序时不产生机器码。",
+			"optionNodes": [{
+				"option": "A",
+				"optionContent": "正确"
+			}, {
+				"option": "B",
+				"optionContent": "错误"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "A",
+				"myOption": "",
+				"subjectOrder": "01",
+				"status": "",
+				"smallStatus": 0
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 53,
+			"smallItemId": 6202354,
+			"samllItemName": "MCS-51系列芯片特殊寄存器区按字节寻址时可以采用间接寻址。",
+			"optionNodes": [{
+				"option": "A",
+				"optionContent": "错误"
+			}, {
+				"option": "B",
+				"optionContent": "正确"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "A",
+				"myOption": "",
+				"subjectOrder": "10",
+				"status": "",
+				"smallStatus": 0
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 54,
+			"smallItemId": 6202353,
+			"samllItemName": "8051单片机的算术逻辑部件能完成带借位和不带借位的减法运算。",
+			"optionNodes": [{
+				"option": "A",
+				"optionContent": "正确"
+			}, {
+				"option": "B",
+				"optionContent": "错误"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "B",
+				"myOption": "",
+				"subjectOrder": "01",
+				"status": "",
+				"smallStatus": 0
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 55,
+			"smallItemId": 6202352,
+			"samllItemName": "在MCS-51中，为使准双向的I/O口工作在输入方式，必须先预置为1。",
+			"optionNodes": [{
+				"option": "A",
+				"optionContent": "正确"
+			}, {
+				"option": "B",
+				"optionContent": "错误"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "A",
+				"myOption": "",
+				"subjectOrder": "01",
+				"status": "",
+				"smallStatus": 0
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 56,
+			"smallItemId": 6202351,
+			"samllItemName": "8255工作在方式0时，下面哪种说法正确( )",
+			"optionNodes": [{
+				"option": "A",
+				"optionContent": "只有C口输入有锁存能力"
+			}, {
+				"option": "B",
+				"optionContent": "A、B、C三个口输入均有锁存能力"
+			}, {
+				"option": "C",
+				"optionContent": "只有A口输入有锁存能力"
+			}, {
+				"option": "D",
+				"optionContent": "A、B、C三个口输入均无锁存能力"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "D",
+				"myOption": "",
+				"subjectOrder": "2013",
+				"status": "",
+				"smallStatus": 0
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 57,
+			"smallItemId": 6202350,
+			"samllItemName": "实现DMA传送，需要( )",
+			"optionNodes": [{
+				"option": "A",
+				"optionContent": "CPU通过执行指令来完成"
+			}, {
+				"option": "B",
+				"optionContent": "不需要CPU参与即可完成"
+			}, {
+				"option": "C",
+				"optionContent": "CPU利用中断方式来完成"
+			}, {
+				"option": "D",
+				"optionContent": "CPU利用查询方式来完成"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "B",
+				"myOption": "",
+				"subjectOrder": "0312",
+				"status": "",
+				"smallStatus": 0
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 58,
+			"smallItemId": 6202349,
+			"samllItemName": "CPU在执行OUTDX，AL指令时，( )寄存器的内容送到地址总线上。",
+			"optionNodes": [{
+				"option": "A",
+				"optionContent": "DL"
+			}, {
+				"option": "B",
+				"optionContent": "AX"
+			}, {
+				"option": "C",
+				"optionContent": "AL"
+			}, {
+				"option": "D",
+				"optionContent": "DX"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "D",
+				"myOption": "",
+				"subjectOrder": "3201",
+				"status": "",
+				"smallStatus": 0
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 59,
+			"smallItemId": 6202348,
+			"samllItemName": "微机的各组成部分，用( )把它们连在一起。",
+			"optionNodes": [{
+				"option": "A",
+				"optionContent": "系统总线"
+			}, {
+				"option": "B",
+				"optionContent": "数据总线"
+			}, {
+				"option": "C",
+				"optionContent": "地址总线"
+			}, {
+				"option": "D",
+				"optionContent": "控制总线"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "A",
+				"myOption": "",
+				"subjectOrder": "1032",
+				"status": "",
+				"smallStatus": 0
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 60,
+			"smallItemId": 6202347,
+			"samllItemName": "内存从A4000H到CBFFFH，共有( )",
+			"optionNodes": [{
+				"option": "A",
+				"optionContent": "224K"
+			}, {
+				"option": "B",
+				"optionContent": "160K"
+			}, {
+				"option": "C",
+				"optionContent": "124K"
+			}, {
+				"option": "D",
+				"optionContent": "180K"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "B",
+				"myOption": "",
+				"subjectOrder": "3102",
+				"status": "",
+				"smallStatus": 0
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}]
+	},
+	"success": true,
+	"code": 1000,
+	"message": "获取成功",
+	"totalPage": 0,
+	"totalCount": 0
+}
