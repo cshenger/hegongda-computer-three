@@ -1,0 +1,838 @@
+{
+	"data": "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",
+	"debugData": {
+		"LastItemNo": 1,
+		"examScoreId": "2090050",
+		"mallInfoList": [{
+			"itemNo": 1,
+			"smallItemId": 6202864,
+			"examScoreDetailId": "98157199",
+			"samllItemName": "224.0.0.5 代表的是___地址。（ ）",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "主机地址"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "网络地址"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "组播地址"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "广播地址"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "C",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_eehcstti88_42"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 2,
+			"smallItemId": 6202865,
+			"examScoreDetailId": "98157200",
+			"samllItemName": "与10.110.12.29 mask 255.255.255.224 属于同一网段的主机IP 地址是（ ）",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "10.110.12.0"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "10.110.12.30"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "10.110.12.31"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "10.110.12.32"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "B",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_08dindovwg_41"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 3,
+			"smallItemId": 6202866,
+			"examScoreDetailId": "98157201",
+			"samllItemName": "帧中继的使用链路层协议是（ ）",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "LAPB"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "LAPD"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "LAPF"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "HDLC"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "C",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_veyonsjk89_40"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 4,
+			"smallItemId": 6202867,
+			"examScoreDetailId": "98157202",
+			"samllItemName": "ARP 协议的作用是（ ）",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "将端口号映射到IP 地址"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "连接IP 层和TCP 层"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "广播IP 地址"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "将IP 地址映射到第二层地址"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "D",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_ud1ocdlq7n_39"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 5,
+			"smallItemId": 6202868,
+			"examScoreDetailId": "98157203",
+			"samllItemName": "当一台主机从一个网络移到另一个网络时，以下说法正确的是（ ）",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "必须改变它的IP 地址和MAC 地址"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "必须改变它的IP 地址，但不需改动MAC 地址"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "必须改变它的MAC 地址，但不需改动IP 地址"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "MAC 地址、IP 地址都不需改动"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "B",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_qpb205hg3o_38"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 6,
+			"smallItemId": 6202869,
+			"examScoreDetailId": "98157204",
+			"samllItemName": "应用程序PING 发出的是_（  ）_报文。",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "TCP 请求报文"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "TCP 应答报文"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "ICMP 请求报文"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "ICMP 应答报文"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "C",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_nzfgeu7vy1_37"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 7,
+			"smallItemId": 6202870,
+			"examScoreDetailId": "98157205",
+			"samllItemName": "TCP和UDP协议的相似之处是（  ）",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "面向连接的协议"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "面向非连接的协议"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "传输层协议"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "以上均不对"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "C",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_kycfpya9nu_36"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 8,
+			"smallItemId": 6202871,
+			"examScoreDetailId": "98157206",
+			"samllItemName": "FDDI 使用的是___局域网技术。（ ）",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "以太网"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "快速以太网"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "令牌环"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "令牌总线"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "C",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_ktfdoil7oe_35"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 9,
+			"smallItemId": 6202872,
+			"examScoreDetailId": "98157207",
+			"samllItemName": "下面哪种LAN 是应用CSMA/CD协议的（ ）",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "令牌环"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "FDDI"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "ETHERNET"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "NOVELL"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "C",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_6bnj3xrcyd_34"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 10,
+			"smallItemId": 6202873,
+			"examScoreDetailId": "98157208",
+			"samllItemName": "IEEE802.3u标准是指（ ）",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "以太网"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "快速以太网"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "令牌环网"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "FDDI网"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "B",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_9qanyl0e51_33"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 11,
+			"smallItemId": 6202856,
+			"examScoreDetailId": "98157209",
+			"samllItemName": "如果一个C类网络用掩码255.255.255.192划分子网，那么会有（  ）个可用的子网。",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "2"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "4"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "6"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "8"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "A",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_ajtz2chawg_50"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 12,
+			"smallItemId": 6202874,
+			"examScoreDetailId": "98157210",
+			"samllItemName": "在以太网中是根据(  )地址来区分不同的设备的.",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "LLC地址"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "MAC地址"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "IP地址"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "IPX地址"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "B",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_4bkypfoyvq_32"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 13,
+			"smallItemId": 6202875,
+			"examScoreDetailId": "98157211",
+			"samllItemName": "以下属于物理层的设备是（ ）",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "中继器"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "以太网交换机"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "桥"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "网关"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "A",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_3vguf9pvek_31"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 14,
+			"smallItemId": 6202876,
+			"examScoreDetailId": "98157212",
+			"samllItemName": "实现数据压缩与OSI模型中（  ）层密切相关。",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "表示层"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "数据链路层"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "物理层"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "传输层"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "D",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_m1umlxksje_30"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 15,
+			"smallItemId": 6202877,
+			"examScoreDetailId": "98157213",
+			"samllItemName": "交换机不具有下面哪项功能？",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "转发过滤"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "回路避免"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "路由转发"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "地址学习"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "C",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_q6xqn1ebcu_29"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 16,
+			"smallItemId": 6202878,
+			"examScoreDetailId": "98157214",
+			"samllItemName": "下面（  ）网络技术最适合多媒体通信的需求。",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "X.25"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "ISDN"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "ATM"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "帧中继"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "C",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_mp10rupqdk_28"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 17,
+			"smallItemId": 6202879,
+			"examScoreDetailId": "98157215",
+			"samllItemName": "在Web的Client/Server工作环境中，（ ）起着控制的作用。",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "Web服务器"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "Web浏览器"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "HTTP协议"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "HTML语言"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "B",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_eidm2od293_27"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 18,
+			"smallItemId": 6202880,
+			"examScoreDetailId": "98157216",
+			"samllItemName": "下列哪种交换方法实时性最好？",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "报文分组交换"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "报文交换"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "线路交换"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "各种方法都一样"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "C",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_sja2wgipqt_26"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 19,
+			"smallItemId": 6202857,
+			"examScoreDetailId": "98157217",
+			"samllItemName": "相邻层间交换的数据单元称之为服务数据单元，其英文缩写为（  ）。",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "SDU"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "IDU"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "PDU"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "ICI"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "A",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_lpvp1dc8d4_49"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 20,
+			"smallItemId": 6202858,
+			"examScoreDetailId": "98157218",
+			"samllItemName": "浏览器与Web服务器之间使用的协议是（  ）",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "DNS"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "SNMP"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "HTTP"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "SMTP"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "C",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_l7wyiwdpdj_48"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 21,
+			"smallItemId": 6202859,
+			"examScoreDetailId": "98157219",
+			"samllItemName": "计算机通信子网技术发展的顺序是（  ）。",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "ATM-\u003e帧中继-\u003e电路交换-\u003e报文组交换"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "电路交换-\u003e报文组交换-\u003eATM-\u003e帧中继"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "电路交换-\u003e报文分组交换-\u003e帧中继-\u003eATM"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "电路交换-\u003e帧中继-\u003eATM-\u003e报文组交换"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "C",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_ccgdgj8ygj_47"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 22,
+			"smallItemId": 6202860,
+			"examScoreDetailId": "98157220",
+			"samllItemName": "第二代计算机网络的主要特点是（  ）。",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "计算机-计算机网络"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "以单机为中心的联机系统"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "国际网络体系结构标准化"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "各计算机制造厂商网络结构标准化"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "A",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_yq9ka4tdsi_46"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 23,
+			"smallItemId": 6202861,
+			"examScoreDetailId": "98157221",
+			"samllItemName": "传输层可以通过（  ）标识不同的应用。",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "物理地址"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "端口号"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "IP地址"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "逻辑地址"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "B",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_n2zedpchef_45"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 24,
+			"smallItemId": 6202862,
+			"examScoreDetailId": "98157222",
+			"samllItemName": "在局域网中，MAC指的是（ ）。",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "逻辑链路控制子层"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "介质访问控制子层"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "物理层"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "数据链路层"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "B",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_sj3yildxnh_44"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 25,
+			"smallItemId": 6202863,
+			"examScoreDetailId": "98157223",
+			"samllItemName": "路由选择协议位于（ ）",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "物理层"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "数据链路层"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "网络层"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "应用层"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "C",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_o95nhycsdv_43"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}]
+	},
+	"success": true,
+	"code": 1000,
+	"message": "操作成功",
+	"totalPage": 0,
+	"totalCount": 0
+}

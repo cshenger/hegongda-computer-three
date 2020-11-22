@@ -1,0 +1,838 @@
+{
+	"data": "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",
+	"debugData": {
+		"LastItemNo": 2,
+		"examScoreId": "1995727",
+		"mallInfoList": [{
+			"itemNo": 1,
+			"smallItemId": 6202619,
+			"examScoreDetailId": "94038344",
+			"samllItemName": "十进制数 92 对应的二进制数为 ()",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "01011100"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "01011101"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "11011100"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "11000101"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "A",
+				"myOption": "A",
+				"status": "1",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_uywzfofjha_67"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 2,
+			"smallItemId": 6202620,
+			"examScoreDetailId": "94038345",
+			"samllItemName": "–0110110 的补码是 ()",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "11001010"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "11001001"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "10110110"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "00110110"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "A",
+				"myOption": "B",
+				"status": "2",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_1zyf4deq33_66"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 3,
+			"smallItemId": 6202621,
+			"examScoreDetailId": "94038546",
+			"samllItemName": "98 的 BCD 码是 （）",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "10011001"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "10011000"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "10011010"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "10001010"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "B",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_jsiv58q62f_65"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 4,
+			"smallItemId": 6202622,
+			"examScoreDetailId": "94038547",
+			"samllItemName": "假设 AL\u003d28H, 执行 ROL AL,1 指令之后的情况是(  )",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "AL\u003d14H, CF\u003d1"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "AL\u003d50H, CF\u003d1"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "AL\u003d14H, CF\u003d0"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "AL\u003d50H, CF\u003d0"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "D",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_hl6wcibsa2_64"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 5,
+			"smallItemId": 6202623,
+			"examScoreDetailId": "94038548",
+			"samllItemName": "MOV AL，79H  ADD AL，B1H   上面指令执行后，设置的标志位 CF 和 ZF 的值是(  )",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "CF\u003d0， ZF\u003d1"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "CF\u003dl， ZF\u003d1"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "CF\u003d0， ZF\u003d0"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "CF\u003d1， ZF\u003d0"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "D",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_hlcdewitch_63"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 6,
+			"smallItemId": 6202624,
+			"examScoreDetailId": "94038549",
+			"samllItemName": "假设执行 ADD 指令后 AL\u003d8CH，再执行 DAA 指令，AL 中的值是(  )",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "92H"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "0104H"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "74H"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "8CH"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "A",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_pwomdxjwjk_62"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 7,
+			"smallItemId": 6202625,
+			"examScoreDetailId": "94038550",
+			"samllItemName": "设 CL\u003d05H，要获得 CL\u003d0AH，可选用的指令是( )",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "XOR CL，0FH"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "NOT CL"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "OR CL，0AH"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "AND CL，0FH"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "A",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_rktwlxl8w2_61"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 8,
+			"smallItemId": 6202626,
+			"examScoreDetailId": "94038551",
+			"samllItemName": "设 AX\u003d8765H，DX\u003d4321H，执行 CWD 指令后，DX 中的内容是(  )",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "4321H"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "0FFFFH"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "8000H"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "0001H"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "B",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_lvnbsegrqn_60"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 9,
+			"smallItemId": 6202627,
+			"examScoreDetailId": "94038552",
+			"samllItemName": "用 MOV 指令将十进制数 89 以非压缩 BCD 码格式送入 AX，可使用的指令是( )",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "MOV AX，89"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "MOV AX，0809H"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "MOV AX，89H"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "MOV AX，0809"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "B",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_0dbrj5mzif_59"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 10,
+			"smallItemId": 6202628,
+			"examScoreDetailId": "94038553",
+			"samllItemName": "没有 语法错误的输出指令是(  )",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "OUT AX，30H"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "OUT DX，AL"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "OUT AL，DX"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "OUT 30H，AH"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "B",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_86wwkooae9_58"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 11,
+			"smallItemId": 6202611,
+			"examScoreDetailId": "94038554",
+			"samllItemName": "指出该条指令的寻址方式 MOV AX, [DI] （）",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "立即寻址"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "寄存器寻址"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "寄存器间接寻址"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "直接寻址"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "C",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_6chkhsvqqk_75"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 12,
+			"smallItemId": 6202629,
+			"examScoreDetailId": "94038555",
+			"samllItemName": "使用 DOS 功能调用时，子程序编号应放在(  )",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "AL"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "AH"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "AX"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "任意指定"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "B",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_g6h8wzhpwf_57"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 13,
+			"smallItemId": 6202630,
+			"examScoreDetailId": "94038556",
+			"samllItemName": "设 SS\u003d2050H，SP\u003d0140H，则栈顶存贮单元的物理地址是( )",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "20640H"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "2063EH"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "2063FH"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "21900H"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "A",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_uidetwwded_56"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 14,
+			"smallItemId": 6202631,
+			"examScoreDetailId": "94038557",
+			"samllItemName": "在 Intel8086 环境下，对指令 mov ax,[bx]描述错误的是(  )。",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "指令中，源操作数的段地址默认为 ds 中的内容"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "指令中，源操作数的偏移地址为 bx 中的内容"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "指令执行后，(al)\u003d((ds)*16+(bx)),(ah)\u003d((ds)*16+(bx)+1)"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "指令执行后，((ds)*16+(bx))\u003d(al),((ds)*16+(bx)+1)\u003d(ah)"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "D",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_mnssb1zmi9_55"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 15,
+			"smallItemId": 6202632,
+			"examScoreDetailId": "94038558",
+			"samllItemName": ".生成 EXE 之后用 Debug 加载后，查看寄存器内容如下：  ds\u003d0c3e es\u003d0c3e ss\u003d0b4e cs\u003d0b4f ip\u003d0000  程序的起始地址的段地址是（  ）",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "0c4e"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "0c3e"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "0c4f"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "0"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "A",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_3vswnyja8f_54"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 16,
+			"smallItemId": 6202633,
+			"examScoreDetailId": "94038559",
+			"samllItemName": "若将以 2000H 为段地址的整个段空间当作栈使用，  是(  )。",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "0001H"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "0000H"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "FFFFH"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "FFFEH"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "B",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_etu7k2gbhn_53"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 17,
+			"smallItemId": 6202634,
+			"examScoreDetailId": "94038560",
+			"samllItemName": ".1KB 的存储器有(  )个存储单元？",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "1000"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "1024"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "512"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "256"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "B",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_xzvtofe4o5_52"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 18,
+			"smallItemId": 6202635,
+			"examScoreDetailId": "94038561",
+			"samllItemName": "关于 8086/8088 微机系列，下列说法哪个是正确的（ ）",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "一个存储单元由 16 个二进制位组成，简称字。"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "当存储一个字数据时，低字节放高地址位，高字节放低地址位。"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "在内存中，可以无限分配段，且段的大小不受限制。"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "段与段之间可以邻接，也可以重叠。"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "D",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_a2l5kmebev_51"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 19,
+			"smallItemId": 6202612,
+			"examScoreDetailId": "94038562",
+			"samllItemName": "将一个字节数据入栈（PUSH AL）, 栈指针如何变化 （）",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "SP \u003c - SP-2"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "SP \u003c - SP-1"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "SP \u003c - SP+2"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "SP \u003c - SP+1"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "B",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_ftjnnm01yi_74"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 20,
+			"smallItemId": 6202613,
+			"examScoreDetailId": "94038563",
+			"samllItemName": "将一个字数据入栈（PUSH AX）, 栈指针如何变化 （）",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "SP \u003c -  SP-2"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "SP \u003c -  SP-1"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "SP \u003c -  SP+2"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "SP \u003c -  SP+1"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "A",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_cpxgfu6fgs_73"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 21,
+			"smallItemId": 6202614,
+			"examScoreDetailId": "94038564",
+			"samllItemName": "8086 状态字 PSW 中表示运算结果为零的标志位是 （）",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "ZF"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "CF"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "PF"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "OF"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "A",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_pvfwwb17na_72"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 22,
+			"smallItemId": 6202615,
+			"examScoreDetailId": "94038565",
+			"samllItemName": "8086 状态字 PSW 中表示进位的标志位是 （B）",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "ZF"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "CF"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "PF"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "OF"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "B",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_tl3kpjh107_71"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 23,
+			"smallItemId": 6202616,
+			"examScoreDetailId": "94038566",
+			"samllItemName": "下列不能做输入的是 （）",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "键盘"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "扫描仪"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "打印机"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "鼠标"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "C",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_oieoswsabs_70"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 24,
+			"smallItemId": 6202617,
+			"examScoreDetailId": "94038567",
+			"samllItemName": "运算器的主要功能是进行__()_",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "逻辑运算"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "算术运算"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "逻辑运算与算术运算"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "初等函数的运算"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "C",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_mkweinwusg_69"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 25,
+			"smallItemId": 6202618,
+			"examScoreDetailId": "94038568",
+			"samllItemName": "十六进制 38H 相应的十进制数是 ()",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "32"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "56"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "58"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "60"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "B",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_axmpor7y9t_68"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}]
+	},
+	"success": true,
+	"code": 1000,
+	"message": "操作成功",
+	"totalPage": 0,
+	"totalCount": 0
+}

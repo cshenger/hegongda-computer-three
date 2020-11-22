@@ -1,0 +1,673 @@
+{
+	"data": "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\u003d\u003d",
+	"debugData": {
+		"LastItemNo": 1,
+		"examScoreId": "2090614",
+		"mallInfoList": [{
+			"itemNo": 1,
+			"smallItemId": 6202717,
+			"examScoreDetailId": "98176936",
+			"samllItemName": "设命题公式G＝(PQ)，H＝P(QP)，则G与H的关系是( 　 )。",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "\u003cimg src\u003d\"http://learning.wencaischool.net/files/learning3/media/itembank/c4a7ee16aa9e487ba5f5cd636686ab25.png\"\u003e"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "\u003cimg src\u003d\"http://learning.wencaischool.net/files/learning3/media/itembank/bd7a005f687c46f5a8569d84a268b849.png\"\u003e"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "\u003cimg src\u003d\"http://learning.wencaischool.net/files/learning3/media/itembank/ecc7e42977584fb8a95b1fcf656000a6.png\"\u003e"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "以上都不是"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "A",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "5.0",
+				"myOptionKey": "lemonysoft_item_key_786148_11208"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 2,
+			"smallItemId": 6202718,
+			"examScoreDetailId": "98176937",
+			"samllItemName": "设A, B为集合，当( 　 　 )时A－B＝B.",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "\u003cimg src\u003d\"http://learning.wencaischool.net/files/learning3/media/itembank/998138c2fe3740e19111eeb901b5ef94.png\"\u003e"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "\u003cimg src\u003d\"http://learning.wencaischool.net/files/learning3/media/itembank/98c5d17768d441ffa733201835d51554.png\"\u003e"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "\u003cimg src\u003d\"http://learning.wencaischool.net/files/learning3/media/itembank/86c3b659bc64450f8c4be3197bf26db2.png\"\u003e"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "\u003cimg src\u003d\"http://learning.wencaischool.net/files/learning3/media/itembank/14f680e3c33a4ab787a4e81ce8804416.png\"\u003e"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "D",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "5.0",
+				"myOptionKey": "lemonysoft_item_key_468517_41885"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 3,
+			"smallItemId": 6202719,
+			"examScoreDetailId": "98176938",
+			"samllItemName": "设集合A \u003d {1,2,3,4}, A上的关系R＝{(1,1),(2,3),(2,4),(3,4)}, 则R具有( 　 　)。",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "自反性"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "传递性"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "对称性"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "以上答案都不对"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "B",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "5.0",
+				"myOptionKey": "lemonysoft_item_key_468516_22410"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 4,
+			"smallItemId": 6202720,
+			"examScoreDetailId": "98176939",
+			"samllItemName": "下列关于集合的表示中正确的为( 　 　 　)。 　　",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "\u003cimg src\u003d\"http://learning.wencaischool.net/files/learning3/media/itembank/b8cfd85fb95c44e3b8ae81abc515b8d5.png\"\u003e"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "\u003cimg src\u003d\"http://learning.wencaischool.net/files/learning3/media/itembank/128bc49683ff48f886cc7a1c4def5287.png\"\u003e"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "\u003cimg src\u003d\"http://learning.wencaischool.net/files/learning3/media/itembank/3566a73a0d9c4dbca5b5b7bd692b8ada.png\"\u003e"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "\u003cimg src\u003d\"http://learning.wencaischool.net/files/learning3/media/itembank/c25652abc44248a9b50c221c8418e499.png\"\u003e"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "B",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "5.0",
+				"myOptionKey": "lemonysoft_item_key_72940_5898"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 5,
+			"smallItemId": 6202721,
+			"examScoreDetailId": "98176940",
+			"samllItemName": "命题\u003cimg src\u003d\"http://learning.wencaischool.net/files/learning3/media/itembank/47fff2a427624ee38dba156cf0b4243d.png\"\u003e取真值1的充分必要条件是( 　 　 )",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "\u003cimg src\u003d\"http://learning.wencaischool.net/files/learning3/media/itembank/1c768ce028fb4b90a50b3394148a0194.png\"\u003e"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "\u003cimg src\u003d\"http://learning.wencaischool.net/files/learning3/media/itembank/c31fac0de183491db1621be19c605ba0.png\"\u003e"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "\u003cimg src\u003d\"http://learning.wencaischool.net/files/learning3/media/itembank/cbbdc2f7d504470eaab45a25b37d6c5c.png\"\u003e"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "\u003cimg src\u003d\"http://learning.wencaischool.net/files/learning3/media/itembank/0a860f1fbc4a454897dbfcb6a920413d.png\"\u003e"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "A",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "5.0",
+				"myOptionKey": "lemonysoft_item_key_72941_22813"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 6,
+			"smallItemId": 6202722,
+			"examScoreDetailId": "98176941",
+			"samllItemName": "设G是连通平面图，有5个顶点，6个面，则G的边数是(    ).",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "9条"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "5条"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "6条"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "11条."
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "A",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "5.0",
+				"myOptionKey": "lemonysoft_item_key_72942_27751"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 7,
+			"smallItemId": 6202723,
+			"examScoreDetailId": "98176942",
+			"samllItemName": "设G是5个顶点的完全图，则从G中删去( 　)条边可以得到树.",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "6"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "5"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "10"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "4."
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "A",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "5.0",
+				"myOptionKey": "lemonysoft_item_key_72943_50059"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 8,
+			"smallItemId": 6202724,
+			"examScoreDetailId": "98176943",
+			"samllItemName": "设图G的相邻矩阵为下图，则G的顶点数与边数分别为(  　).\u003cimg src\u003d\"http://learning.wencaischool.net/files/learning3/media/itembank/9d4a652b75aa4227b03be8b36f0d0c2d.png\" style\u003d\"font-size: 10pt;\"\u003e",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "4, 5"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "5, 6"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "4, 10"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "5, 8."
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "D",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "5.0",
+				"myOptionKey": "lemonysoft_item_key_72944_17926"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 9,
+			"smallItemId": 6202725,
+			"examScoreDetailId": "98176944",
+			"samllItemName": "谓词公式\u003cimg src\u003d\"http://learning.wencaischool.net/files/learning3/media/itembank/f89fb646a22f41e48cd45bcd5268cb5b.png\"\u003e中的x是( 　 )",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "自由变元"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "约束变元"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "既是自由变元又是约束变元"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "既不是自由变元又不是约束变元"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "C",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "5.0",
+				"myOptionKey": "lemonysoft_item_key_72945_48627"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 10,
+			"smallItemId": 6202726,
+			"examScoreDetailId": "98176945",
+			"samllItemName": "命题逻辑演绎的CP规则为( 　 )",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "在推演过程中可随便使用前提"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "在推演过程中可随便使用前面演绎出的某些公式的逻辑结果"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "如果要演绎出的公式为\u003cimg src\u003d\"http://learning.wencaischool.net/files/learning3/media/itembank/cdfa0f84026342d8a7a47e7e23b1fe3e.png\"\u003e形式，那么将B作为前提，演绎出C"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "设)(A是含公式A的命题公式，\u003cimg src\u003d\"http://learning.wencaischool.net/files/learning3/media/itembank/4d6964a3d1734786abc4691094792851.png\"\u003e，则可用B替换)(A中的A"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "C",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "5.0",
+				"myOptionKey": "lemonysoft_item_key_786157_11922"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 11,
+			"smallItemId": 6202709,
+			"examScoreDetailId": "98177206",
+			"samllItemName": "图 中 从v1到v3长度为3 的通路有（ 　 　 　 ）条。\u003cimg src\u003d\"http://learning.wencaischool.net/files/learning3/media/itembank/132ed61ed57f4ed79d6c9211a8eed0bd.png\"\u003e",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "0"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "1"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "2"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "3"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "C",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "5.0",
+				"myOptionKey": "lemonysoft_item_key_72929_27683"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 12,
+			"smallItemId": 6202727,
+			"examScoreDetailId": "98177207",
+			"samllItemName": "集合A\u003d{1,2,10}上的关系\u003cimg src\u003d\"http://learning.wencaischool.net/files/learning3/media/itembank/f42fccc34f7144b6870823863560ef83.png\"\u003e，则R 的性质为( 　 )",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "自反的"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "对称的"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "传递的，对称的"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "传递的"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "B",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "5.0",
+				"myOptionKey": "lemonysoft_item_key_786158_56613"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 13,
+			"smallItemId": 6202728,
+			"examScoreDetailId": "98177208",
+			"samllItemName": "\u003cimg src\u003d\"http://learning.wencaischool.net/files/learning3/media/itembank/9fbeaa36314e482ebf53c215036f854b.png\"\u003e",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "\u003cimg src\u003d\"http://learning.wencaischool.net/files/learning3/media/itembank/169af61ac41147f6adb56db2b208a446.png\"\u003e"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "\u003cimg src\u003d\"http://learning.wencaischool.net/files/learning3/media/itembank/3fa112d044a34a93b42c85762e22eb9a.png\"\u003e"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "\u003cimg src\u003d\"http://learning.wencaischool.net/files/learning3/media/itembank/8d9195dfed0147959fee880c9a8b57bd.png\"\u003e"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "\u003cimg src\u003d\"http://learning.wencaischool.net/files/learning3/media/itembank/f839af89017e476ba6f23dd69e5984f5.png\"\u003e"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "C",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "5.0",
+				"myOptionKey": "lemonysoft_item_key_468507_39784"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 14,
+			"smallItemId": 6202710,
+			"examScoreDetailId": "98177209",
+			"samllItemName": "设集合A\u003d{2,{a},3,4}，B \u003d {{a},3,4,1}，E为全集，则下列命题正确的是( 　)。",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "\u003cimg src\u003d\"http://learning.wencaischool.net/files/learning3/media/itembank/395b848ba6634ac28c737c4d33aefa53.png\"\u003e"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "\u003cimg src\u003d\"http://learning.wencaischool.net/files/learning3/media/itembank/60da66f5e9a248e7ad9434b75bc9e21b.png\"\u003e"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "\u003cimg src\u003d\"http://learning.wencaischool.net/files/learning3/media/itembank/48231fb5148443f4ac72592b94cc2050.png\"\u003e"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "\u003cimg src\u003d\"http://learning.wencaischool.net/files/learning3/media/itembank/90cea98da9504c2ca812fd3e29dfd227.png\"\u003e"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "C",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "5.0",
+				"myOptionKey": "lemonysoft_item_key_468525_29905"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 15,
+			"smallItemId": 6202711,
+			"examScoreDetailId": "98177210",
+			"samllItemName": "设集合A\u003d{1,2,3},A上的关系R＝{(1,1),(2,2),(2,3),(3,2),(3,3)}，则R不具备( 　 　). 　",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "自反性"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "传递性"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "对称性"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "反对称性"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "D",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "5.0",
+				"myOptionKey": "lemonysoft_item_key_72931_19240"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 16,
+			"smallItemId": 6202712,
+			"examScoreDetailId": "98177211",
+			"samllItemName": "设半序集(A,≤)关系≤的哈斯图如下所示，若A的子集B \u003d {2,3,4,5},则元素6为B的( 　 )。\u003cimg src\u003d\"http://learning.wencaischool.net/files/learning3/media/itembank/8b8da24947164728a3eeeac202bca1e7.png\"\u003e　　",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "下界"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "上界"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "最小上界"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "以上答案都不对"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "B",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "5.0",
+				"myOptionKey": "lemonysoft_item_key_72932_20461"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 17,
+			"smallItemId": 6202713,
+			"examScoreDetailId": "98177212",
+			"samllItemName": "下列语句中，( 　 )是命题。",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "请把门关上"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "地球外的星球上也有人"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "x + 5 \u003e 6"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "下午有会吗？"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "B",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "5.0",
+				"myOptionKey": "lemonysoft_item_key_468522_24173"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 18,
+			"smallItemId": 6202714,
+			"examScoreDetailId": "98177213",
+			"samllItemName": "设I是如下一个解释：D\u003cimg src\u003d\"http://learning.wencaischool.net/files/learning3/media/itembank/0a0380fc29c74339b8319c3127ba5064.png\"\u003e则在解释I下取真值为1的公式是( 　 　 　)",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "\u003cimg src\u003d\"http://learning.wencaischool.net/files/learning3/media/itembank/2fa9f85649de4a95ac3f99306e7e6e29.png\"\u003e"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "\u003cimg src\u003d\"http://learning.wencaischool.net/files/learning3/media/itembank/7a69cff3dd704dd18e563d0daa3e1a6e.png\"\u003e"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "\u003cimg src\u003d\"http://learning.wencaischool.net/files/learning3/media/itembank/abf86ec44d2241079155952fd1a1c70e.png\"\u003e"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "\u003cimg src\u003d\"http://learning.wencaischool.net/files/learning3/media/itembank/bbe781840ed1472b80775f4de8fc264d.png\"\u003e"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "D",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "5.0",
+				"myOptionKey": "lemonysoft_item_key_72934_31095"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 19,
+			"smallItemId": 6202715,
+			"examScoreDetailId": "98177214",
+			"samllItemName": "若供选择答案中的数值表示一个简单图中各个顶点的度，能画出图的是( 　 ).",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "(1,2,2,3,4,5)"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "(1,2,3,4,5,5)"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "(1,1,1,2,3)"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "(2,3,3,4,5,6)."
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "C",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "5.0",
+				"myOptionKey": "lemonysoft_item_key_468520_17996"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 20,
+			"smallItemId": 6202716,
+			"examScoreDetailId": "98177215",
+			"samllItemName": "设G、H是一阶逻辑公式，P是一个谓词，G＝\u003cimg src\u003d\"http://learning.wencaischool.net/files/learning3/media/itembank/745a4492ede848fc97d1cc21a98cd029.png\"\u003e,则一阶逻辑公式\u003cimg src\u003d\"http://learning.wencaischool.net/files/learning3/media/itembank/b6d58951eb3e42f8aee5cbf1168105d7.png\"\u003e是( 　　).",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "恒真的"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "恒假的"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "可满足的"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "前束范式."
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "C",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "5.0",
+				"myOptionKey": "lemonysoft_item_key_468519_25716"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}]
+	},
+	"success": true,
+	"code": 1000,
+	"message": "操作成功",
+	"totalPage": 0,
+	"totalCount": 0
+}

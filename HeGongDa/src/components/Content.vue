@@ -27,6 +27,14 @@ export default {
       mallInfoList: [],
     };
   },
+  watch: {
+    topic: {
+      handler() {
+        this.mallInfoList = this.topic.debugData.mallInfoList;
+      },
+      deep: true,
+    },
+  },
   computed: {
     searchList() {
       let _search = this.search;

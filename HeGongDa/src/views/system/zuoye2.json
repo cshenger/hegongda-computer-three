@@ -1,0 +1,838 @@
+{
+	"data": "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\u003d",
+	"debugData": {
+		"LastItemNo": 1,
+		"examScoreId": "1995823",
+		"mallInfoList": [{
+			"itemNo": 1,
+			"smallItemId": 6208378,
+			"examScoreDetailId": "94047685",
+			"samllItemName": "段的逻辑地址形式是段号10位，段内地址20位，内存1MB，辅存10GB。那么虚拟存储器最大实际容量可能是（ ）。",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "1024KB"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "1024MB"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "10GB"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "10GB+1MB"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "B",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_yo5tvr8f4o_81"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 2,
+			"smallItemId": 6208379,
+			"examScoreDetailId": "94047766",
+			"samllItemName": "在分区存储管理中，下面的（ ）最有可能使得高地址空间变成为大的空闲区。",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "首次适应法"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "最佳适应法"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "最坏适应法"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "循环首次适应法"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "A",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_7kj83ajosz_80"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 3,
+			"smallItemId": 6208380,
+			"examScoreDetailId": "94047767",
+			"samllItemName": "在内存分配的\"最佳适应法\"中，空闲块是按（ 　）。",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "始地址从小到大排序"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "始地址从大到小排序"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "块的大小从小到大排序"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "块的大小从大到小排序"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "D",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_efu1dlla55_79"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 4,
+			"smallItemId": 6208381,
+			"examScoreDetailId": "94047768",
+			"samllItemName": "把逻辑地址转换程物理地址称为（ 　）。",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "地址分配"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "地址映射"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "地址保护"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "地址越界"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "B",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_lpr2jl5yvq_78"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 5,
+			"smallItemId": 6208382,
+			"examScoreDetailId": "94047769",
+			"samllItemName": "在存储管理中，采用覆盖与交换技术的目的是（ ）。",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "减少程序占用的主存空间"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "物理上扩充主存容量"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "提高CPU效率"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "代码在主存中共享"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "A",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_kuamp96os9_77"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 6,
+			"smallItemId": 6208383,
+			"examScoreDetailId": "94047770",
+			"samllItemName": "在可变分区存储管理中的紧凑技术可以（ 　）。",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "集中空闲区"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "增加主存容量"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "缩短访问时间"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "加速地址转换"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "A",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_gq5nmkmzck_76"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 7,
+			"smallItemId": 6208384,
+			"examScoreDetailId": "94047771",
+			"samllItemName": "把作业地址空间中使用的逻辑地址变成内存中物理地址称为（ ）。",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "加载"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "重定位"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "物理化"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "逻辑化"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "B",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_8m8gfiwssv_75"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 8,
+			"smallItemId": 6208385,
+			"examScoreDetailId": "94047772",
+			"samllItemName": "分页存储管理的存储保护是通过（ ）完成的。",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "页表（页表寄存器）"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "快表"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "存储键"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "索引动态重定"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "A",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_je88mayl92_74"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 9,
+			"smallItemId": 6208386,
+			"examScoreDetailId": "94047773",
+			"samllItemName": "资源静态分配法可以预防死锁的发生，因为使死锁四个条件中的（ ）不成立。",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "互斥条件"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "请求和保持条件"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "不可剥夺条件"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "环路等待条件"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "D",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_qqqzp762du_73"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 10,
+			"smallItemId": 6208387,
+			"examScoreDetailId": "94047774",
+			"samllItemName": "作业从后备作业到被调度程序选中的时间称为（ ）",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "周转时间"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "响应时间"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "等待调度时间"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "运行时间"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "C",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_claf8d4nri_72"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 11,
+			"smallItemId": 6208370,
+			"examScoreDetailId": "94047775",
+			"samllItemName": "在下列有关请求分页管理的叙述中，正确的是（ 　）。",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "程序和数据是在开始执行前一次性装入的"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "产生缺页中断一定要淘汰一个页面"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "一个淘汰的页面一定要写回外存"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "在页表中要有\"中断位\"、\"访问位\"等信息"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "B",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_j9abtov9j4_89"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 12,
+			"smallItemId": 6208388,
+			"examScoreDetailId": "94047776",
+			"samllItemName": "在采用动态优先权的优先权调度算法中，如果所有进程都具有相同优先权初值，则此时的优先权调度算法实际上和（ ）相同。",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "先来先服务调度算法"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "短作业优先调度算法"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "时间片轮转调度算法"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "长作业优先调度算法"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "A",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_mrdxrpthk0_71"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 13,
+			"smallItemId": 6208389,
+			"examScoreDetailId": "94047777",
+			"samllItemName": "为了照顾紧迫型作业，应采用（   ）。",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "先来先服务调度算法"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "短作业优先调度算法"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "时间片轮转调度算法"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "优先权调度算法"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "D",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_key_777535_42227"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 14,
+			"smallItemId": 6208390,
+			"examScoreDetailId": "94047778",
+			"samllItemName": "在下列选项中，属于解除死锁的方法是（ 　）。",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "剥夺资源法"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "资源分配图简化法"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "银行家算法"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "资源静态分配法"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "A",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_kp9iks1fxo_69"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 15,
+			"smallItemId": 6208391,
+			"examScoreDetailId": "94047779",
+			"samllItemName": "在下列选项中，属于检测死锁的方法是（ 　）。",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "银行家算法"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "消进程法"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "资源静态分配法"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "资源分配图简化法"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "D",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_nsyoaye96b_68"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 16,
+			"smallItemId": 6208392,
+			"examScoreDetailId": "94047780",
+			"samllItemName": "在下列选项中，属于预防死锁的方法是（ 　）。",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "剥夺资源法"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "资源分配图简化法"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "资源随意分配"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "银行家算法"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "B",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_o9pqtfu7pr_67"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 17,
+			"smallItemId": 6208393,
+			"examScoreDetailId": "94047781",
+			"samllItemName": "下列进程调度算法中，（ ）可能会出现进程长期得不到调度的情况。",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "非强占式静态优先权法"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "强占式静态优先权法"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "时间片轮转调度算法"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "非强占式动态优先权法"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "B",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_89f9ngjspo_66"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 18,
+			"smallItemId": 6208394,
+			"examScoreDetailId": "94047782",
+			"samllItemName": "银行家算法中的数据结构包括有可利用资源向量Available、最大需求矩阵Max、分配矩阵Allocation、需求矩阵Need，下列选项中表述正确的是（ 　）。",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "Max[i,j]\u003d Allocation[i,j]+Need[i,j]"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "Need[i,j]\u003d Max[i,j]- Allocation[i,j]"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "Max[i,j]\u003d Allocation[i,j]-Need[i,j]"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "Need[i,j]\u003d Max[i,j]+Allocation[i,j]"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "B",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_chipaoorfj_65"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 19,
+			"smallItemId": 6208371,
+			"examScoreDetailId": "94047783",
+			"samllItemName": "虚存管理和实存管理的主要区别是（ ）。",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "虚存分逻辑地址和物理地址，实存不分"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "实存要求一程序在内存必须连续，虚存不需要连续的内存"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "实存要求一程序全部装入内存才开始运行，虚存允许程序在执行的过程中逐步装入"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "虚存以逻辑地址执行程序，实存以物理地址执行程序"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "A",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_sndv7iqrro_88"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 20,
+			"smallItemId": 6208372,
+			"examScoreDetailId": "94047784",
+			"samllItemName": "能够装入内存任何位置的代码程序必须是（ 　）。",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "可重入的"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "可定位的"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "可动态链接的"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "可静态链接的"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "C",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_kimvrfhavq_87"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 21,
+			"smallItemId": 6208373,
+			"examScoreDetailId": "94047785",
+			"samllItemName": "通常所说的\"存储保护\"的基本含义是（ ）。",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "防止存储器硬件受损"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "防止程序在内存丢失"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "防止程序间相互越界访问"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "防止程序被人偷看"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "C",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_foynwmtmo0_86"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 22,
+			"smallItemId": 6208374,
+			"examScoreDetailId": "94047786",
+			"samllItemName": "静态重定位的时机是（ ）.",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "程序编译时"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "程序链接时"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "程序装入时"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "程序运行时"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "C",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_qxriuc1qej_85"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 23,
+			"smallItemId": 6208375,
+			"examScoreDetailId": "94047787",
+			"samllItemName": "分区管理和分页管理的主要区别是（ 　）。",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "分区中的块比分页中的页要小"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "分页有地址映射而分区没有"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "分页有存储保护而分区没有"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "分区要求一道程序存放在连续的空间内而分页没有这种要求"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "D",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_87x0agnfv0_84"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 24,
+			"smallItemId": 6208376,
+			"examScoreDetailId": "94047788",
+			"samllItemName": "一般而言，计算机中（ 　）容量（个数）最多。",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "ROM"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "RAM"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "CPU"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "虚拟存储器"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "A",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_jracadbsiv_83"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 25,
+			"smallItemId": 6208377,
+			"examScoreDetailId": "94047789",
+			"samllItemName": "用空白链记录内存空白块的主要缺点是（ ）。",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "链指针占用了大量的空间"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "分配空间时可能需要一定的查链时间"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "不好实现\"首次适应法\""
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "不好实现\"最佳适应法\""
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "A",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_1mpgugidly_82"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}]
+	},
+	"success": true,
+	"code": 1000,
+	"message": "操作成功",
+	"totalPage": 0,
+	"totalCount": 0
+}

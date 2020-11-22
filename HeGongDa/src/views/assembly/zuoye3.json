@@ -1,0 +1,838 @@
+{
+	"data": "wqtVxTm94mQ6P++Zwe+W+Zv0FhiU3rcVlLVAAAcP3RMO1wXKqr+lw3pnrKOcoFZmOjLHOGK5I/c71aK3VDUalu4Zky0c3IfFJyYtG4Q2XEDf4cDSxgWZ/Cy4dm1Doo4Ob40TEQCUcSMq/Eyn3re7ZeTDexqKR+qeCyiRTT8+1JV7JDvbYaOwqpH2J1lWYmHFbHGTkAH7NHxx8XtUoT/HbAxi3zzCL0fLYVr5WO12xaPeDFfU6dmfa3LiK+fpl1dD60tCBzSXXnwO6oevpkUR9IJzrJdUrTgeOCpmHvCWHx7e1zRkJbZklARz0g1Is6h4fdrdB+yqR+uX+FIZjIQutgLLc9FYqZEtVtYobhO6Qxzp3TdFG3fBVLU7impwZADrm8aSdyhig3belh+idDBTcJPB+orxVSdk9MAFnavKy0LaqgcNJu1IM5/3WP9TClfeUEemmC2fg/5C4KOr6i3XQoQgiJSUKQzhrOkpNnVce47Mg5jRWZA2743C+FcZJxUlr70OKN8C3+7dy1oefkwI/MVibpYj1KBtQYfd+hE/GRjzgANEwZDuQ0rgPvpcsmP1uYSJrGMiJk4/IxZDT56xIJYxhP3oozldIetVxCwZYrnQUmjt4cUjQrw2tl5I5gcTrxvLCPqmYWkiMwXl/TmadFLScLt1h+fS1hEFajdZ/3mG5Vz0VuDD5grK1/8BgxWTORqkMk/bts3r9O7d0kWXIl7704rLOzJKwkDjDK6o63UCyZCHBIXsooFi1sfQHttqN68J3fxY4zUuu5fexpdcvVZgWR0WiBMQW+OHB9fl/D0SZ2WuKitgbwKM3NAXQiYaOxybqj5NoyZwpuowbSvcGCbU3IZld7sap1Tfab4bnaGpY6I8+sSait1itL78m0rISXST+s1JnnhBL+nwmzSdJGRvnJfJ57eWkoAMdtNC7ellaoQhlYMdwHp7tzN7lWYRYiJX/Qt7UDDPgeycsExdHjyzRM+jnofm1yd4wEYURv4tF1Oy0nNcABqyzTrHU0bTYnoDotnv/CTlsvwdlh4668y2hRykIOdgH5QFbXPHtRIb/52S5qr37odJB4NJED22a5PGGwiusJdJtpc2172mwNXcl7+iiVfd38qEIXmNKB1UOpBTKFmfWUwiUGEhMVsGzVWVMfMXkPGtjXCKtCzCnC3xNQo9niaROtYL5Dh6CA16G8OIlVHGaAzpzHPMphHZMRlgg2FalgA8QKIo8sdBjlt6FLoo9/T7b1Fc82mt+luZnxpBrDF9xlHupYLigYOI0o4i9Y+uYjzMZPKOubNf9tnerzXuM4oga75etXkHwqJT6A6xNwQRUqT+lFjjGyYgOE4AI1/NAsyWjGFlF0Pm+JnCny6Zu9ioN9TLR7nyVcRpcK+ZfFH1Re/AMlSlTwC5IFwL7fEy+De0FlxOd+Ti5lXwnjfXy1s/Ik2wQwy0PJFvwVwcGu88CXp1eZFaoWo9LLuO3uQXoYg9iBn8LhW+ubCpSNfcyss+TPIVon8Me6W5DdD6oCgyNu2BSzaekNIPQ9N8Z7GTLjL6AWhDW0ZM6GhBt5kbuvJwP6up4OLURtGvKLKSvVuEjuIj+7yh42ovvU11eDOCgwJslbp3IVGt3JnFhmihI8EBhWkiKgWJ0cqwpYaxq0w4ucmRURpVZTPG159cVRP6A8zITk3ZPQMC4P+MQudqWNtVQe5tMwpcjhq/bzM5CuFuwRRDGLfDAC//NYgU2RScmscBuiEiUgLPhKZ2wS0V2emZsRsjF0clY5LBtxCY/ryG6W1/SJsPwv6hL5VwDl8F3XCOEtQM6pVtvU+gFt/pDxfKXjsPyqwk9oQzeedao4OOK/UlcaiBZ6EugjWHXXLAzmvYR6Ze56E/yc6qGNrdmhauX1SFSrZPHodQIO/NJCrsX7ZR6y64qMvhC/+wpR2G+XaR8AkTUaatge93ogr7OkX+aBUGtbVHeEmQAes/rVCg5xn/4yHIi4pk78aNSsf+ydmFlPlB4oJnL9hdozPM7TCON1EJ7q/MF3BQ7KMX0fVISNE4XAlRVVi7Mqn3G80TyuJpjDIp3GhjdOrADWEGfwZOmleBcnfWMlRQXYhLgHY0LrWlqsbaMx6WkLL8QENZXOEOEYvh8q4FbZqQES0evGpoFrWojPbhOahose2Qairp8BwqQyt+z8a5fYQNcAO1ed7fw0WEsfu2wB2no1ypktpgBxNKKIZjpnOYtMdtgv69QRkiC/Dgjengpe0POCkdLyj5A2Wc5Js1MAFWCH8zPe3MRtJmC5hfo3DUxk1mGI023X1Fdlw9REH+fJ2Mb8RTpb8PBIaf1YOIm6sDsqFTxB3JboUwQokX4DUSMV+pBx3u9uDk1RZAtzTdSOufthBI9vZ+2PbTUxxOItZoplEQ6zZ8flev6KQfQz5myKz8SvVAebS/bHJhgK4k39t75h4l4I3INXFmS5zxEXiwZhXInBDMxQ1CMlcGtVAkj8WvrAQHwycN3q/Z2G2vQQVqow//awpdC8r42L79TCrLnTH9ftT5kqOZiyeoo2IU7nlrMQnf6VYPkQoy0OqKOJ9s1ts+QvPOnUrzyF3d6dG5B3tRc4bktpzfOwbJ/nk8ah4BFtzG1hWkTP/rz/L28cY50pGOFpT0lhUkrwh144bw27yJ9NFahFGZ4Rr83Pesgy8XZ9FoUj9TB7pHGs72/sy0p7x0Q/XglGJa9m4R3dKXDABFZpa2dRlLUBlCG9D4yLgK/sdrRrE3RJvxXBujYq9wjD4eXOHEP1Xz+Bgd5P1TOUFObYq35OlpM3E1dchJ7R8jkmE04szCKn7/Dk/xhuydp1uVdzZTfFxp5tXOZsDrOR2huNfBWVefe4zFD+yha7SxtlBIUSnGw8+U00W/nvEEqKPv8zvl8q4PsBGkxOCwgupUTL/HX2sDgqyXbPT/g3COjlvfqTbyHXB18mIVo02JT/KkoaH96SIYIDqnrFqLVZtv9CkRouTYb7VrYMrn6p5uSOAaDDOa3mRNv+2+EzEWhLEuGeReAJ77UOc8XmELKlYehDOo0YX52eMjWdA0nDn/lb4/CtsBG7bMUesHs3yObjuPXoHH2/cBU68ReIgran7lnFTjullxBRX4RvPEqY6WLM056fF3W/XBrCgbtaiXdpdcO0h0XF55E3lG4+xpmPQVF8Mss0np/p+qgCc8MdkWFYCOreBVGzKScIvX5axeQKFWrVXIJOS1jI0SlR6qOlzoInqVtlvR88Y0hdXh3fhRlUb2eY3LLXimhLz74KKfOMvNRTLHKMYV6MdiEmH1ERdSh9sLF4ZglvLhcm1CV+6pFV4JsRnTLvaAXOvCcRNYvUy3BUeFxoojMld/7iqfv8rYTd/uRMmDc9mJYeouqmIQCZsieVA2FmDsBXhf4htWndnE12a9/1qm2awpEaYkEGbdajZH75X+g5P1QUdHZocZ3O1tPobn4vJsYs/oRm9eR+HSBaAYZkKRu90Vbh2F1lYrSMXTfSDCYfGJ6EvZ5/cdFlEAukGuFUE/IM9TYxltEHMRttW/wa6UvHtHuFFkgCBG+34N57zFQGXFrE2zo2nTRqdeh6qLH2q6EaCg7r5CqdXwb3OT2OLmYQwz/S3B2LrDfEpGcugWnHg6H1Rez4ijjWtviAeSsRZFFwk2Xn0r92xocm93zvW44yuNaw/xWXPK3De7tjgLnjyn3LbIXku11KyS3Jw3HwFBgJvhqLT5i85ETOX0glnaiWNdTnOA5EjYIx7hiuIWyTq6Od4JeGpGBXl8x4KV+bH0qNeB92qZK5uKzVCyaptJze4eAA61PbZbHikK7B2CR8/TANj96QHG26fz4XGELKMp2D8cnN9XcDGLESIssUUJoFqA1I7LwC40la5OziHGq2qrP8GOgaNPF80g147/aAQeBwjZqlWHLVKgxBEEqaSzYJxAJn1zd16MfLoKNgFaH4PbannH6+bOpqPsuLEmQ8QYlii/pp2Q9ZOVAOCyafemTiAuWo/msSfZJ4/H1bbFnlNwRFPkx7v7+lPrZkaFlaOCOQbrAoGV6dVbwLlRlawGgBTncC7iheyj1mWu57VSZNWAZUvZbCnIboVHqdQ8OWKhaOhgznkU9m01zgRncXd99wfqdqAXppytBo88N5yCBQuP0Z+SOnqujs0Q1l26CxkSkp5EgYGbPT6CCdXVBuJNz7t6ENRarn6Kekj1wBeizGd+PNhViV6pl+OfsddB8r1J0g/5SFUV3Qh6j+2szwuZ4eMQSWlplaURpZXQfIgQ6SzYNCuBovnzDsWSQXnzEFvvYqMu4IFObkOQ0NSjCGIl/PRDbtqWZf2vORDTWLaU3cUhDvHBayo3F24tyCFHctO3DpIBM/10lNaArOO2YlPFvQ6VldDsh54XT51vgSTF8CodZ6L9/uvs9aBAPaDdM5UlRvNTnqI7ms2eCLeRFmnMn+Ndk2l6i0YTUeZg4TmR5nnr6YUXMUbZBv1nZAalgNAmccD+yFN2nN5vRK0auELDova1LLAB+SvPEtAqG5b4QEw8aIR4cCzssSOeiryDvder1R3Ntj7Cj2JoSic0bh9b1YbOerhS6fVX6TY8ZY87Z7UJ7OBjH6/LYJwvtZ6E1iC3WJtsX7L+Wtq1/unNoorb0PP9k9FxgarlgLr6S1audNLzFbVICT54mb5UNLiK5gqacVbdQB4R+Ton8oiORANnrWrWTenrZHZyc/o/T8GS4Mtd7U/avNxclW3hGp5D7Dl+5FN/yFjrZa3McAEK1bfU3tWsPs055lBK1P06/RPQ/MVGtt+I3z1XPbIhXAu8A3oy1vMrbJzzJX6vL2Pl8Z87im5tjb9fhEuw0jgSAaCLCfvJUjO+aUZvAYJa1uBC5cDhoz9+gjAYoX2fbfkBZyun/BD4hkvvtk/Zla4ik/s8ju6TvGPDLJK7UKFWbeIl+Vh3qaCx5PaD6+8Qx+uShuPS5pE/D4fTkOW0+imWrYsPIwuOaGaKBo8l9xStzO41C5PryBxs9YRBcn8WdZlGhg2gdv2jSjm3Zg53S3ChCfQ86D4LTgJrOeHFLD52wWBar1VFTJYzLrox29fyeSUbWig5E9O1rZ6TAVO1HaTadZwFKkUoq0tbR7aJ/zWxXIvUMLFsUF6MadKNjmjk3hnHlnGSeMmmZmXdDhsKgJFNOLZ/p6dRoobTi/ahSgtJidt7tYckuNkWH9uC0OXRAMBU8YaDz8o7mV58kcT3qj81LjSqQv+da0HcyMJgbNZhYSPF1flESAG+7JiVUoVT7z8abifK/hwXpbeb3cXkej5/9D9JFekiSzb53u17kr8PCS1iS2USLmOKDCplJ7dCpQRBHBRT4J/09PjnQlmjcHzJcJj0UoidOBfvMkhKE+BgVh1ap5NdEzDeORGuG8q4qJt7l9OIbcLh2HEXWBQe5Y3kqIoze8+0eZEkXybyV+8Jrl3C0Y+BH/x3Z85sUlbnTq2noTXx2je4HyFcChI8MDIjCneKtnnq6/1UFsl5JwggKnXQ0DbXR7Xy31rXDZfQ+WZKav/gjy3Yym/RC7hcBaZAYedIwAYBr6eOhOktVX1iyMWgr/mPaAVb/X9vrvwyZSs2HTU/pmiCTsS92ID7x8nurXODkXOksMPIgTw4znfpf0lWnOOtkxLu2hK4AeLcCzAgCfggrJjOxc6WAykyq7ztwhQDoPl9s9Kp3cayH8wP7qhAupSEqcWNMDS0yNpZOtLlzamaxI/a4bYG22StqAke+U44Uzs2NRAHk3UQaX/I32lCExw0PtBDCU6p7ESDShWgjCnFQs5U3nN88HBj/lEO4ZqxuxM4VlRVTLHtORaUuJIz5DDN9RfgMhvgRGILDJxw+xEZfLpw2LTgbIyKne2CNeEUXCXprulWV0sSCncZ/5Gw7UlbHq+crIAXBfZy/HrEV+RoRLb5Zr0dqt+BXPwQw1e6AU42IWw7PRcC/ELSMuFSHN3un/QQxaPkPUlZTq3GXh8VtvTDGvqFSC/i+HpIAAFoHrg6xH+FRnRLapgcU+8Bqmq8ydBT9EgY3iNTHESElThYLZO4ta2tjEQQ1m7NX3v6qxDwZIQLmM4U8T31vqc3Ips7tHFMs2TT2cY3fx/ITDXAbzb9c8tIY7KgT22gltr214QkEO5qHJIExoU3WrE4yXgCMhnMQwjan8u3j7fRbZjIRJk1WDoIFgcWc1Yd7kXGgpjhFO4mLcVCXDr3uO5knBkthqXKWhznqunAoHVmQ09ptnCxHpD6I13DXIVrL7Q5plHDm27KAQg4DFwsYxJPZKug4dYxr9zThaQKNmoH15ZjpEc42WTJJslSCp6HzopOXGXn3gcdCVmod7uPi6ND068RD3Zt631RXbfUq2UlKw81wn9wiEdh+jelHFKeF70SbPzpNGkDUy9zDe5GF5F8PBYmSxwQLwdVgJP15xIPYnYSGX8U4EdBSwkbb5+eBz0sLdRaam2YTLK2QlkAJgf+ZerrIKlHoIk6+TGm5/w7gZ9i6xXb8OYVIGE0dPzn0V37+vxk/0BKZVzq4p+mqqyni36+iGpuK3UwhbI5dnRuIh/SLjZhECbTEe8CQYqipQCAqIdZONXqKirE03TltbfoMNlVFWLVkxPItHgwHQu4qiJpBB74G5SL0ffht1B48fexBu+7a6bTCEXSkvnKrjqybDxZQwNVfMFKHC3jQ/x52CwOJjCtab8/MksscGiniRn9cOb7n6PB5e48aswNIJWGAIF3qXp4OMnLJVyOw8k6NZZHkeXzhfnniz9rUMm8G+5Iakyob6s9UqGVDAcIhffBEHt6Sd5H24vjeCtlNqSsA3rhem48V0UsQ7aL1P3Pc2AYqa9enEgWG7Lpe2VNdjvJRTd+icsX18RbvpjNNyVAq5EEP1bAwzRmCFtLndi5maNJfdkMb9TSEkTWWs79vZ+a93rOcYNde4I5msaQAtnOb5I62k0mymaUZeWO5n0PVFOWZaWEHN2M+VyJdMsD6a7FeudFiwS9HuxSTo1XgruVsGJCZLXnMhZg7mOIZHe7SokFyu8uCjSzcrQ4BVJf9wfuajrClZZm67kEg/VVPtG46f/edGVjb6o/eQ7HYUX0CVzwexLIbRQ1sxDMTA5uJbIjDLDzfvn7q0TmWOVbhGfj+cKkiT0SgSwCYK+6+SU0DHslvHdQH08e9UgezGXEHRJnuTAH5d2ESQ3rdewwXpBf0VUvK/MvXvk8TGEpK/NwRmIbfnF9QxsWc4kxfweFol6+NSJAje8gSYrNBdU1rWjDiDIUIhYUJ1IC9lzJUSVntfwZAYrqR4tlui14u9ZwYli9Np7EN+I9qZ8u+Z3C/RNogB7Mt6Fsgb+bI5oOidw88FVSk5DIjjbg7GhOLHMbG1wbDweCzW+lXUxv1z+ni/sZ23+PlF4VLA8PnJPjGigRl1g1UPgEAaPgKc7z6z8QWl89jp24nj51hvLz+D5yZJoDSd/7Z7dilzyLaGdZzaRg9FSnVqDH2ZhycN7TlpCSQlJq0MvZOBUUoKCnJRNrDIJriP+XBYbtiXZutsQQJvRSsfVK+fwsDbj9S0fy8RmPXlVyrJs/ibLyihpmnDmhzE4bz/shGY9LYDSe/InSnd43Hu/DQ0D6fBeHs6gum49SMe3FGVGcQI0r/61M6/+c+MuFqVhC7Pd9QWQ693LaikNV+SwPL0LwPSx1oUYiP0Ye5C8tcXouhBIg8RsaHkJLxrcjo7QVpsk+eroRkL17+T8l9qpIFNVgMOyTbZSuiNRCPWzEpVAEulO0DI7jDLwf2PiGgZwMwV8+HtkIdoP/wid4ZZC4lxCuymeku89P9WmvLBQs2+8qThEe+NXPThD+jPBrcmwq9vEnj5tgsvAILEPJ3aZTFyGjRLNX504Y0Vn7glbZM2rQoyEDbLFp9zcBHxKCUGq7fYaB+xkylITHrCXy4DnMoh4wKBQQu1GWCegClH6OFxUiAKU/RTPjL3Plcx7B/oga/7yPAg8j9875K3lZk9jz9GQmgk42w8efL0OX7JZ3/VqEduGZHrl/hfXvuB+JTfxXmVLG0SluYXdpszsxemQSwAq0Aop7qU348gvcNWX7dgdv8AnU/AgoPJu25LVJMS0sr7UXfPpe8EpmrXuvi03H4o6UWjS+MMPtraYbBuT1Fu/P+m4JimilSzT+wxXne0W/naVlsDSg9npuAYbIpwwDXUIBKTJhUUCSwwf8cI7gmtvejTUv58ycd8CKQlvM+BJ+WOO8mW2jHB5ZlZjrjdHreYxHVl2C2re9VaikvOUJfi7dNflq5KZvH6gzSFdNNPq2MPuv70TLI/rs1L5eQeaCcRE/6Od6aNiriX1OWWvOOIUqK+Mah5sgHws/b+sDjTuzvgV+B9CwaeA9LPg6WtmiGqkBLBFsSuh6YtoI26uBlNsKU6p210lHPwD7BYqXqU7QVGrqkhSWMo9fJxayqw1yUfnMNHBRKxJuzEKZZe7lj8R64Fai/k1gok8jQzAUV8JL71HdiOby7DWSApY+3Fa+l81fzkmz8iFX8TiMYUR8stwpHUoJNaNPvJaEkVYRG3OF4ddiEtG1bXJbXOq0MUaBHteENhlL8nKSoQlkvPLaK8zev81gjNVxrStH3tLwVpG0RBxhppfI4fuqMDlF5FKcugCLATmUipBqYkDapmumAP0HZzCBPHUG+EHQYcbrQHCeiCoaRZiIBsz+xNYTDuSZx4fs4gwZjzpljAquxT/+DqHN6FidXRA2g7zPD3XfyJe2uFeIAAvZtayDQOni0TVqWME/hxIh81845QMEecWdRgOWzg+2gYCZJl4W2vvJYxWsDy5BEgWF3MOk0GN9uN5P1BhUZBISnNt2gUHa+0f+zF9zRLjiF5r62qfCL4/g1rIzrVebrsRAmOQQNDmZ47YhEe4IF+JuazeZbYYpBI8aNW4qmvl4X8Rbjc2kaiDO5dZcZJm9WtGfSfeFpxIWQta7WYtutuFcuYCR3IYSCUvduQl5xmMrKzmPERGN4MMtzps4w3f71h53hdeThuMgs/mG+E8gN8Fnmab2099GyPLNVVpJkOyaEBq5aGQAUdYYZsr12+Xlf1GeWhrXJukPv2z2O6Vf9vvzZ+1OsH/XwbWLGEwKJsj5F0nDmWiYNVrxRIwwvTF0fv0ViVcGEjIaaF20SrbzJYhMFpS1+OJ89NqBGGV6dkeeKL46QwR1V0PvFgXt7PVtgInWdaCDCNGC+KL4NiU+nOMt3fTAmprcmnmdXjei+E6tlah/cTaVAlWOrHFhTNrftfGTBi4OfllUJA7R/4vWqalEzMyTAyhDFJxx1i3hVEbQdf9PdxtSXTQk4BKdbzFrJ49CfQEZ9GRUDfu3woOUOjm+s+pMKYtc4SMRpv0uSabLC3JM30V4XlFoq3nh5VLCGsSnJ6GJn9xNyD2W3aoX8/9i1TvOWpEeXUMR5uekDiaVZdbtvxxWlyjvYctTXRAuCo9NSFDWTTPU00jqU5NJsmsBIuIsjJhoR51IsCZ627i+7MPFYTtTnIGOGTGbXGa9c1vXwvhfe+TZpXdG/GeOWUhwmpRVRUPYv4Tr+drL2Fj5josN1vi9E0Se+M7n+E8c/ggrhhIElycxL+dilISrzG3sLwfwnYaFka9Ea8J6ixizoehPJUJewhMgQwxbGmCt6jYT/cMMcPZuYBT5bt9o3RwQyBPgl4Zb7xwVreTvoSEiyF4gz7JIZTQKMe1dx2T92DP1SYcMiXd8k/woQNf3J06CX5LU9Q07B1rlpM6m5/qUdxMVk6Kv633S7/7Tq7mJOGkFKCwACeAD+zBde4RJzyjVuPCiMC7tf7LRPFvf7cSkrsgiBoXd7ILxZ0UKMPA7ANEpm0opSGWxEhIlKykoQJirVLqOteE2u/GiaL7aO+6rU4Dp7hHd9t+oFixYrz/CFlNkmxvprGhgUg1SLQg1RcVqbE1nsd9bmJtFhaHq+TzEDayNQ3zYxgQhdZk2HlrZIPm9bspaTeZ6OqHvXpIjosR0aW2FRVtBisL3bggchuscljzqtgys6PY3gDPeSldn+Tz7tvMuyIPWq/gwImq5fEG+kTRVM6AXhN0bJmglntB1J85JKfFn7h6Fky+4LlFN6Xage2jtqquIWdQH2+Xa6WOoxnTYuTkKP+6W8hwQWhmsavA0/DvF/xhN5ZVjEQj2/qxOEWvKxQ1p2EzE+zBiOAYiaAMDB8kamslM83goAODBR2TqdLG5oJhQCSOydTFpZ0CMVigDddeJ3kRiS6a6kZu8oyKoa4niOQmuamDNPOQ6k9wZigImg1p/yldoAvCx1peNkmYiJnZrO6en+I4aWa5LUBz3ODLJcjljEshecxMCkt3NpTfS62G2mDBLy2yGAyTgyiEYA2470TlUHKTNZ3RDtGSq3zGREX5IKaedrCR0cH4lTY0E3jg9JEz6L9HxU2J2d7qe0klhGcOrAXcxMQedqMWGThp1MdVNnpObgxEE8PdoUVq2polg/L7via3zhalg5trYM5YOFe6ByD2ipBuYPfRSgkBTyYDnmmVNJaRwX5PX6oJXpbRpJRSJBZaz5mJtof6tRttg9ejmxnN/OcHTRMT4QUCTTKkpiSI3gqVkuy03jQyeZf9usHrq9Cl1vcaqOz+OybFN28CveK0tG210B/nStvI4rrYDX4QVwPNzggErCrabVHS6CUnJmwFRhVwc/6QN3QJuZFOLXycrQ4mEEjnkKScsUn1f1ud45aXCBdxcMZwkMPpH6qU5swF6eNtGSSq9uYdSOJQgP8Au9qRH+TH/FJ8eniNtDcZueBdk/5X29QJeenKCaAZYeyXnIIPIv2ZtALXnfiE0To+X3wWAphK3MYzOeb9LOspEzgPbXfjnUVGEeiTf2IeJ6zdomnA4fYNUJR2YXajkpXXg8yW6S5i9Mvb+DpP+E+djCsf4YS+yOaqHWocrTR/LyOBsSAeDVaaDqFZl6rxKM45RebpKDcFFlQzw7bb9QVZIAMnGFbrMzNpEwk9KUGFR4IR7PzF7HCPYmw20OUXq4GF6mkiRBnt+mNE+rNmuk8d2diW4/O/xBwR+pNInam2izUDG6iKgEp93DFcx4u2wSWujKfL1bgY7T7KRbX9Sqojv9kIBFlis/lgRXfcqCsGPGfX+THXTc3SEfI+nDOZAIY3FtgoMtYYR1G/ru0j+LQlE7fLaPa3Y2n20WSjRf95UwPKuzUiHH6tn3NZH6oXMKS5TPbSuZqkU4DQvHVBjKYiESC48eX5Qe76PCMFVV68HM4bHULfRwDmc1IRR9wHI189kanl7chpFRrO1A4t8Ip1uFLOpXGJbYGgbiWcaZBVmWhF/pcIGVplpNOaLi0BjAnDAPtAoAoSPyP3Q+Olab19RjPlBiIR0bE0Xc5E11AYlRYKg9QZqqnNM5agi2VQU6NZ2C/aIcsBf+cSGpaqgniM209UwEB/dqsY6kL+VPZ44hBwwcnoVa1LrcWSgxjzLFRUCUWTAzd/I4oMEHPwo4TaMzzZCzfTQh2PfBuFXtoSML0BgKrHJ2dD9ZUj0MW7CEwx8qbNY4xmVq30mXYIWBN0dcj2QueaQSyoOpTm+8ZtaVsvVEVlGvdVRfSbGOQH9DqQ7ZgF3lD64vtXkJ77xSttys+VeLJrQ8CBY6LwmwSaVYbjn7yyJ+pbkz7pGcD40aUUSonzdG4FwBERKmhrE0xKRPHpPq0hMmEWZKmQim7vfC/7OulJdg8hLBtfei5KqLAH6fZ8rfc6FwrOpUw6mkAcxGQuHeNppD3FvahgneQ3td1y6Lfvdzd28toZvZMyi4uibsIqxBcBesT+J5S/KP67LQ0eoDSIkf6+gA0T+0L2cu8W6kO6zmR69LjY72sYVDTh9JGNQ3/8jt5hzItzEjVUx8ejZKUho9xDr2dQvviHvOmhRy1SiWOy0D4ajyUgt64UAyP2KZOYHmNl5J9qOFP2pFPTvA8JQ27aPruCHp1XRcZtTK/ri41dEQoz0Vnmx78u99a9bqPRqFKX5kvZryPz3R1/muD9R7ZDiZhqxs5FC24CPWAu2YcgBO+LTSX55Sw/fD13bdbvMhx79KG/wa2FN8zlhPDjv3WUCIJGr6fQkuv3rAE+Yo4Tj7y7rn1LNQc986TEbB16K1m03lm7eZ2Xciy8vjMDON4XYNG+xDxF5W8FasvtnBV5UkspWcsC/X079Slhiu4qAwO0o9q/T5hRuRYBh4/ZwZiDVcpSgerWCYQRKAeY+lKEajeDtjtMBqlI3nk+/dQRl42z7m+2GXErgODNuXuNcWo3/MjgHRANwS9hrgOzyng0ClcpppWPTWGHo/a+6GDPViTACMaDKVVlJCyVTyfwMTm1kx6AzSsCXVbpH9pRU2e6QcVo1GCaE0S8KFqHZZ7ikSxA5u8WNTvvClTYQGaIvUydt4+miAGQGlpiuaP8KkpqWy4g2WAArCJABJ4q/5ZkZ5uA6jjzMSweroqZ4jGvWo39wYPfhGvBqYo+7EiC7fJpM2vLIfCh/vLMHd/yUXyqg6zwkV5Gegau1o1+C4b0nYfxVPz6QEAaHduoVKiHJGSJROJ5IHV8P2BFvXRvUbeQUrwbi5ac0eNBfHMYoG22bB7V5cZEKX0U346eK/YHF0hUT3/6lvSRt4moUvU4H0wFFTPhqbF1AhZPmmGCX6iUZAIP5YMPEpLXnOLEA01QKIytSz9wdtM3YBOdJI+yUdgmy5WPXlgn1U6kLxg6rbl/Cm/fAM04uKkbapT1mcXw4ZGcrqervP/DvBC4mTD0R7bs5eb/LOdPXo4t7FcJzS/f2LXWq4gAspEZ6MVBJQKXbefvw1Y3qTL0kzulSZPm8AtGOnHbgeG79gwbwn8n9nH0de5z8+ZKKYBpfJF658dMEdYGYJYKCW3Pt/ooBF+7HzP1led9slpqkOQBMgV3+YyTDULO6A3sPZC5+uZIkXXZavOM39JwjUExr4Oj0bxC2Y6wY7Ayxz4wblG5Klp8UqB0x0MIsAt572GKOjh4jR183Mr1oMmCOqg8jhveshhrxVI7NI23htUqOCTTie8xccioxszj2Cl8Icpg0/wTAsXOTlvbTVFmkEVjQ9i0ebs50rGasHfI4sftoLFUZni2H6LrUbskr/oSii9UfGcv0URO7D4ZJYKBv+vEwjToFODHyIwJHFxRkcdnWtojKlJoW3O3q6MoKrpsp0RPUhZFfPr/vFirTSB3KcuonymvXmSsU15iaqSGo1bBDe5c2z9oLsHCSNn0gjINDngYzLPTHZ6e7LT7Are0gJ4+ovo7EvT4gEkAZZeaSXPXgEuglgkTdUqoYsPzQ2i0pnF0fjjSRvdr8e7CU/h/EayMNovghITraizr4UZjHMwHqCDOaabFJBjbnRy4suaxgOHeY9ddOIyx+HHGXNlySNpfTh536BhWREMMx+KFJuxbUfXlm1fRRDlYZMP9adJECMllInmclf65n6HfTd3ouQt6mraz0fwre9yu7gjBMHY8PpjDZY+eeUbYNC7CkHypjQPxDDilHbRvWVqkmWgVABbRmfltFuoOFtyxbq5rH/00vXH9Nhh+2/nNpaORwrW9ElZ8T/Wa9o3VvvkVQEvhTpl9FDlIdhpxeV2bli0Rma4r6wWe3tJyllNmMnvGE7AXfEDiwPaUijV92SMgoGwUvFD/nVAB8PgkfTpWGl4WivsaXvPf2ZRkW9tMtDfCldxHMc0zCznAr4vv02du/vvTLX8gO8FO4r7/+0/r+mUXARRRZJP0F/4jp2pKrXk6LAjM2l/h7mUGR/tfQZoXfnswq7hy+px9f8rEQs6CsL7P/V6jkm/lwpZ3jreloPY4wp0WNnqpeWkDbD2d1dYbFRlJmZfMwvWZF7ayukRSWPQ07cj0JNpiUNDdvJomUhYaH6Oo4Ej1GSG4Zfw2dcSwrDYehadbhYXEoeh4L5ycAAQeogJ1SmvSZ/9PaVftDsWwCMPiPNsaFuQ2eQeey04S6G1vmbDNqfX1ko22AJoSvlU6t2h/g1MVAKvsFHUdpesI7cSaOUM83P+VEjRcw2RC9Z4hhnyrMaRsrCx7M1+sI9jyeY0xJJ8l6hdd2iH9X9fV3qCY0gPuK23J4yWtH3Lb8sMtrqvWU07scRKRxAzhuaYfYh2PTgiY32P7lcYomg/3DEZoaKsFjzwkmA7bzhUuXEmemoMjuqThc494/Uwxjn6UOQJq7tdC6CCseQKTQpopKMU9OGnTuQkmVKlESuQWYdieh5PpdbppIBX4iJGUz2m0Qz3X60VkclawY4iFk5/vhwaqIzFq8Xeupl3ET9uxqjYAFoh358YrmUe93xDQPJk3bmFcALhHjy/IeJdqqmwOjiCNvzUizLTsH0z85E6/U9ldKifvNT44nPeIMW/oeNemjbVz7k7jWUoS3I3VEQW1xX2dcGPlBhE9eQAOsp0IqHcX1cmtVgUHzUkHVP5cH9eUE1HavV+xKk1HR6Qxs15fEj2p9uJ5U+Z5juYZ9rmTLR9YXxmcLYJNLYOMRZMqkLtsqsyV/Qdt+1lZElSTh01RP4X/gJNqUDzVh7QcELNYYsETQsh9Kqfo/pU7soLfRwo5qeuyL3oZzYGigq/v3PptIozOKm8mxXBcDaUZi8WNadWAXq5TGGeiCHGTqNbNf3bOpcDw5KAg38wP4EsAxrg9w7f4QKF3scjMLH+rqdBzFRnyWy93a/6X3AEHR7JLurpa/E4hp3BsLCyw6sawWCRdyqm1s9fpROnO2fuMWw+3DcZUkgthuN8+W4eCVtUNCcPhYrkMpuJYcVw632T5ZYqMvvsGb+Vzr4RozXwg7eZeTj7BT86xfEpwWURqe/0N868vi6RqERUQRjDOKoG+V/BXANzKH9fj0e0ixeoh1mTkrNcibAyDgCtiJoIqQJMbBNlL9L34qt1+epRUhUyzHfaXtW3UpJnECsAuopUVmlfoebOZNw8oSrDH1ndsH3eyhZDwfAdVfTfkXj12RvYd/+kBe/kdMrl2eoJDR/Xdd9hjOdwdX0gYKt2lHSaNhqdsHstZj1Xzt5e2fXrXJ7F0b7IGhefbnQqqkm2h/0xFsnE/kZMSdXKYtXOqAJlI/jU7E39rD7KZW1vbRTDwvl/xq9qapDt+MKeRdu4kImf/p/gfgfyhA3ZHZn4ak89+64ZlwAMlHngBL3E7dYHiO7ruHM8RA9D/RfvZKVuakOqC1XwVyONYA42i3dEQTF1pzobDWMFu4SuSxUCf3N5CsTb6X0JtX0FOzHW6KazdxSid985refMmI9gkji+MQKtqnY4lL0aP+yT+alLGjgdUM6P6Y16ED6bpNAPzYeTrnCYslQxYSrj8BCBGt0jdvuyJnnRbLh1lnh4s6GZ9fYE4gN+q3c8R5x8qXVa7EYLV1c+Qm41CmQh9xCIfWmjnFjmUAJ+fEH+Uew/lmIOrIoQzTOWuRZw/ylSxf7pte3+rLxZEvBqtkbn1wAxrsKaCq0T43fIf8zvxbQlMf5nDIh6x8+w25/QEK8bkfYXEl46ngm/JAhNWkJd2sH3sMi0Zzmm/EPyRUI0Khy48HeMdw+wyJIq4s6ZPlJ+mWaZci9vZQVU8FhdTsEyzRKirb1C4F4aItk2WvcL6mfW7+L2pjPObSWjZADp31OuJ6qJawjb6inq2z6OttBRweRG9mVLH6PjRGJgfIVY8PsIaCRO4QG/NmgTtNWrUr79Vl9TXhVtbvvyMIBZsFThj2DuGw6Isepjz9acLLXn3whE+CLxeZWZLP5fLcmsOc4wOQ/9wXeOJdskbCxZtkZrAwN/nggq7w0U4IIfmhi/agKJXK0JAAdZ4KcTU8pROPW+315IfNXCTcSvA+4FZTqrTrlhOE/ieYGlvoTB8sa2nBXQ1EXb9/B7wsUoLAbFgAy4GI//4zK3JHwrHrGRwyBlNs4/Xtf2rgmAgYAFRN1+cAR66VQOcKziUD7FGdkiaiga4JGkfQwReYLij/ibkroz1GHAYqeUR2Zgmmi8IMIKsoW3T0SjYYKNAVORWnsxr9TTAE4eNQFUhCwEAvQedayQRg7UlXH7IetOl/X4k2xsfBgRJXsuWft46wXbjvhCl1gUJXzbWUAd0TJ8WZpfqwCduRK4CVPmn/ewYT4nrlzjs2PaVlwdH0sSJsmEifu8FF1/A3aEsOeORUQ+4zfPovq4WD62F+olNBLlyZnTQ3U/FYBtRPU5K8RvsoW1pXiPZ3eD4SunBhwAo0SzpoPE4F/2ilkAYryUJ/7mAa6RDQsu6RBxmG4+QmTnvlT31+O1klykNRXNkPiNgKJRONsgygM+rhJCN1VSdMkusiVeaXv2ILZwYGKWqr/wpGg7QaggmvdZwsLH5/yS78nL9+la37jsdVAO8cM7y1R6jzQnIoHSFsZXF7koZ3MmV0baZARx5htfP2694vDChiM4c8Xije/kW9VqxeUhp9rl3at2sBw/bFLAPKmzia2zCzQFrVfw+TD4uQbKoGUhq80lotDDcQroVuh2XV0SvnQpn62LcKWlValWJusERw9XptMdU1bu5zJSZLL/eIzu124HUAE9YqE4hZ9gbzGrX/bSp3e5SaUf6rcvS9gPP9gRmj2wv1QA+QkSxAF0RqucETN4dGu6049vGNdveRMBYrNu4OvzIDjnovF46sGLGFAHMbvjU6JkR1BJT8KE2MVZVlgkE5CKu7rutvPGjkQoyXR+NklmFVSGvAmOUH4xX30UPEGGhS+ObhnEBpUsp3/71ED5y0MU8qH7g7fnxdGytk5VqTT+blOMcMMQeRT/vgBShrQg7DBjCybbOyI1lAS2X8M4u6NMTaWAl5E96l4BBzW6cHIsOWUn1euc5Ua5Pr7UA60h7VNAqmacyWKYUxXcktW+WwQRl5R6oMWoc4MxUPTw0/ZbV2t5fA5iG0XZXBlV+wJfN7QXnd5PWQih162VsV8zcC2f4SyN+xdEFNnC0NjE7qOZtmTBcW/C8EtjnswDvQzMQB6BvxamRV8M5/kZsTgQJdwNaJh46t5199SyXl5DklQccsLBljWLPiXuMDnCJ7+afpTc3ivlIUZlJsNN6jBiZ93dxXgWIx2G90twk+9VkBfBCcKRuGpLTlV4PelJqvX6B9P7T8WcpuYTUjmkxNeQjIWR9qsUjkzrV5qes0X2vwjtCRA/H19pSk3om6JDqmASpFLelr1v6ampGBl1QpoTpu7sk2y5h998FChDdQlzc0MCeHsmDChylLKYXJGtrUZa2GQXdgAAV/UbJ+f/9bQtAWg652BCWLA9grdW42X4ppQYu4Lg6twlD4Kmp7yfASk61YUx2dRk+pp8g/gRu+tJGgU/IkQtQ9lOlckOaP8TfYTXiol+gly65SVXbKCn9XStX+pyKpwrH/bTrCtK3Wjv2V4vrY+QBXX2i1ezaBKoKZyf94SXKFTqKOZCC3XjeQli07/O2AnMSCoQwlNwjCbgpTh9gbUvRZAQN8BGvkhCjXvbBvgJHq706dV684eT41pArqVZfTzoZVoBmAdYxlOnD7hvIWpQYYKjYHq46sdwCr+gJE+7BlCfiZAz6sx/f2eYaHFLh2q1nLJe2eTk59hOy78nI6jEAGF3OdX6kKtudxIsQhX+0k+tdEEJhIXEpzOOwORLoLuCVMwRhWYJjdGUi3pz+rp0q51xYPSDH4CnBXUyIHMCy4ceXT5e9Kn254aUFtv/I2K+Q/9DcmeG0OHd7JXvqtAHnLCYAqZLhNdWEs4SD4d/s4c1wgu52CnEXDwdf2f3Gbi9WqitxrdO48pAB3oOT4HO/psvWd1C4uCgwgYNJxBYEpHttFvnl0kCkO4AutCnURwXPEb+1MWphF7gvO2zUuMdO8AR9i87p1GnwedTBFe4H4luPPBL9PJT4omwtgmlVgSPaZpvivVwdX58PYBlEydydqW7z7MEsD5+TchnmmS64Skh09aYKbyLeFrDFs5mxs2FrspACtZsA+i0Mq5by9WiBCaqZXYuXZ+hYe1ELT0sBXQTNlg8yGRtbmHdS0LYYGWGvm26gesWhRMUWDzl2NWEwrR/zD+WWFiHsyjNQjFB6ayjZ6zyC4/rt6z97aD0F/fva5sEpITFGiVpTVJbZ/51Wt9IK7QRoQtmvc4NRjssB+YHTqP1jhbTkPVrLd0Umt7fA1CN8gmcNE/V7CWsjDGbmr6IIv0McaZBoZhNmjHl+J8refej0Mqj05uc5iMQm5qTXb+Wka2hP2NNrbioPe0y8JRWOR6aUmmRXGx/FHnYfUFnBN/+BORp359vpviFqs2oHITVPVaJ+FW9Fp6P96fi/qJlCus8eb4/GhGzfxaj5GDPncppexEMGiH51VZIhjuAqyZlFplGl71Jyi/EO1vX2zTsmMN6SCkP5Drs+wzZZbgbQg62RH9lxW1IWmOFI1G36PqBJjYVUjETKMltVVVr/MVIF+8fO/qmxcl/4gEQ++aXolyqIsWcdJVrevoaKIBXc1y3fvrtTlYgmfngHDbzdESjSws1DVZmINp7Erp57tHQWA9r1DczOlnRdgCTK7DOctgWujaMtxaCVAJFRyH81sTgJmodhs3d4Ev2ahaqXxQqllhEZKgEI2bDG6e0iRbIqR5ViUty7cgJPA8GlB/jL9aNrqf2hSpLrmEKXt9vZ58GWJqZjR8r/sFjNE3Su4u04u579btWYX+FSxcKYRT5eP0PSwCYUlCm78qTchKAjRH8Ht0X8ziqbc2dirTqz8aM+u4tpnnO6We/8GqtD3YPB9u3Sh7DJlhhFftlNfbiRQxkNoIgPrsPfvE5s0O+Bxdjdk3cROOfV4JAz4LreskhbaqXXyky+svEVEqU2Itz1jCUFjo9/2w2KADHxlWuePtY2hWCrgGBZDuGHN89gu9wW+3niVwbsanp35bPfbW8qSeOYfVLfynFGdPJ4TWoKFrcDmzrMGtL140KNUOpcW/p9cjKYCutLWxXjg7Twmi/Ww5WuqzM10264p7IGjHHrhNYL/uPHyNyfzfNj5ScEglwHVtu9yFSV+nhEY9HR/cB2zVsX4SEf1OYHkOM9HbcOB2auHwXK8WS0A8Nzam7BTk0RsTmiXa8p95MzaNDctUta3io4wHt/Jr627yqZZKfKWxeK40rShSblVhHg6yU/i7lQOgvUdV639HqmQL1TCoCFpgKTzuadB8lic2jsRI2erKiH+V23s93b4s130Uh3W2h97ZAdWEJRninWSXy74w4ZtN1rcSd1o/5hcdtVCrmOJDfdX9KV/3Iam0BHyeuhlRH/JP64Rh8+ZVNFZhGH7pnU4aBGFTliU45psPCliWc3RESP93xVYUHWwqcUiVf1eumLIVAIR2XyRGGl4gcvsWidWamf5ksdYBrdVWqzv/TFM/En+nDDC4mc3Xz2Pue5dp2SaF3lSFhBTXXOkX+z1+LKIj09Ydw3fpziLKQtOkJul31HuhQBtpyR+w9Nv6hs0oi10R8sAi8rzk8lDBXGEJhkj3h0AWeLwi1yVrHkTRZRl7a6wO78wXQRBMmpdfPoAHv3CgB39YoP+K6vkHYL2WRnMlu/lBW3gqVLmD4TfFEYOKwJ7TTuH9oeI+21QapFpEI1o4y4ASlKVhTPYPoHJpavEJvIxVD6ClXsMU8K1oVIdJXb2i8oL8dWHQM10zUR9ZWEypGcwOKSoalmD04PrC+se2RPlrNeIVc3o+g7M5V+gzVEf/keA9MwXl+yuSw/zOrMe6GFpY1qBQruKeOm6vpZS3CvJkcOuvKPinHDnKjf/Lk8VAeM80xhfyq1Aj9CN+HXvAc/g7cWgrT4LFLZEqjwRz4rUbI8LTS3brbm8deH6v4oCinjlt8lPVM9TJDZNLZz+/NXbqI1aUQYyEiiKsb0lwDKL/PoeVdFItDbZ4Xyq3IvrjXsiIrSeQiSxCxdd7G5WpnN3vz9yczK61zJLpvi9AnfoakqEHXPxdiEh9Cjy38dY02hvt7+vx4qgRZ3kZW0+D8uz/Vd5QQyYgBxIydE9bwRzsfszsrRUPIN8C5ymmq0A3G7jiEL2u5F/eGRTO8S+tD8W/n4uzz4rIbQmPmGMLnWp5fazusVIg4jl2wtZxQ+FVB4ia1ANZTnU7CbE+mBjkmLWoSNgo5U+KJoJDftCY8pKawUPKWc0sRlNlmnyMBkPNVcsShBAJYUkVAYjNMRs6lqps8lNwVnYZPm/idB/kTDu6aujC4VOAjwnWewzUfnuf8H7ynMM0CMu6Say3TIoa0+ix5DVGkOdJiDgpKNrNph0H8yTVQmQXyKp5q1RjjVtDrMdO6b+ED25tD1eIP6iwYvo0do7N8vyW7I3BvKWYA3Kpdqv9QUWM3l7wLSTgl/geOOVcaLwpBOFpTaQQjjw69rWfInXZbbJUg7bfW127d6fuYBZadayHHC71PxcAtc5doXxYVU3EMPZ3nsBeaevOPK0mIgERlS9L4PBzOxGTavEWa0bAtm+eMTUsG37UmE5kdNoPGPxLvfntJ47e3kpxVODT0w8nhND7EWTc+dRWt7Al4dask3e5NKjES2VpuR3cQ/9qb+Sua0z2tcTSnD1f2UpVgX7+fk4l0MWDZ043gjhED2ZBn+qkbuymoAU3DTJGgKV50gEj7xz0VDN03qN2B1KNs/gkTUX7IClhb0JX0KerOvAKLqoFKciIKk+n9c5bsFVgHtIfs21DszqXQy9qFjki3mij+TAxiR11cBCmbwzri9Lvl9Sn8XKySiLwGZTf3OzZFR11cygA+6+UgpovuGDwKJ/0KPUH7zxRQCG1KVAa2be2wjckqEJLh7dnDyauRzyn0x7ujm+qAfuPBWtM+0gAKHzBayFOQhi7INfveQ4nbKQ1ohK04UvpLBrw8o46X1qGbnKNotPzg4e76xtk1xEwuC/twQLA9+91RD1kSWngQZX/1EY97K2vEL4j8YDQKMgY1wrO6OjIO+c64O8Ow4stPJ4OYqkRU1MLaFZR3w9uunbCIKwaPHlwJM5AviJ0JtjugNoBF00SS5M2HhKKonxBRPObpXpTJ7qGQSjfCt/KF517Ob/j4aRI2hxU4ce/5xm8OIGaaP0wRSTKKfa8iRzC4y7g4gLbRxWRkM+oct57FRrLovdxwqn9nj1TGNINMHJek0DYbnYLjQ4ICSuyjOyug1fHOzx5ZX8OhOaMdt4lp5UIkVqB5s5MGSwT+aHmbGATvjvHbDvi38Tdl20sqAtg7L5HoJRw1cai41PqyNyzxHI/wO+GTs4ccrQ3xSmfqjzvy7FyfkbakCOIwoLQRSV7SWFyRs\u003d",
+	"debugData": {
+		"LastItemNo": 1,
+		"examScoreId": "1995949",
+		"mallInfoList": [{
+			"itemNo": 1,
+			"smallItemId": 6202669,
+			"examScoreDetailId": "94048501",
+			"samllItemName": "在汇编语言程序中，对 END 语句的叙述正确的是（  ）",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "END 语句是一可执行语句"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "END 语句表示程序执行到此结束"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "END 语句表示源程序到此结束"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "END 语句在汇编后要产生机器码"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "C",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_swzd0tbyuv_17"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 2,
+			"smallItemId": 6202670,
+			"examScoreDetailId": "94048502",
+			"samllItemName": "与 MOV BX，OFFSET VAR 指令完全等效的指令是(  )。",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "MOV BX，VAR"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "LDS BX，VAR"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "LES BX，VAR"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "LEA BX，VAR"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "D",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_eywpiz0ds0_16"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 3,
+			"smallItemId": 6202671,
+			"examScoreDetailId": "94048503",
+			"samllItemName": "下列传送指令中有语法错误的是(  )。",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "MOV CS，AX"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "MOV DS，AX"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "MOV SS，AX"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "MOV ES，AX"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "A",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_rvpkqmhs5l_15"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 4,
+			"smallItemId": 6202672,
+			"examScoreDetailId": "94048504",
+			"samllItemName": "下列寄存器组中在段内寻址时可以提供偏移地址的寄存器组是(  )。",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "AX，BX，CX，DX"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "BX，BP，SI，DI"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "SP，IP，BP，DX"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "CS，DS，ES，SS"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "B",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_cseswuwwlw_14"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 5,
+			"smallItemId": 6202673,
+			"examScoreDetailId": "94048505",
+			"samllItemName": "下列属于合法的指令是（  ）",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "MOV DS，ES"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "MOV [SI]，[DI]"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "MOV AX，BL"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "MOV [DI]，BL"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "D",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_xhnznxpacm_13"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 6,
+			"smallItemId": 6202674,
+			"examScoreDetailId": "94048666",
+			"samllItemName": "当程序顺序执行时，每取一条指令语句，IP 指针增加的值是（ )",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "1"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "2"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "3"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "由指令长度决定的"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "D",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_4c9wvuk7f6_12"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 7,
+			"smallItemId": 6202675,
+			"examScoreDetailId": "94048667",
+			"samllItemName": "汇编语言语句格式中对名字项的规定如下，请找出其中错误的说法（）",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "名字的第一个字符可以是大写英文字母及小写英文字母"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "名字的第一个字符可以是字母、数字及、@、_"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "名字的有效长度≤31 个字符"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "在名字中不允许出现$"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "B",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_gjibmvuybb_11"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 8,
+			"smallItemId": 6202676,
+			"examScoreDetailId": "94048668",
+			"samllItemName": "设SP初值为2000H，执行指令?PUSH  AX?后，SP的值是（   ）。",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "1FFFH"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "1998H"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "1FFEH"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "2002H"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "C",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_gzihm3nq1m_10"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 9,
+			"smallItemId": 6202677,
+			"examScoreDetailId": "94048669",
+			"samllItemName": "用一条指令仅实现将AX←BX+SI的方法是（    ）。",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "XCHG  AX，[BX][SI]"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "MOV   AX，[BX+SI]"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "LEA   AX，BX[SI]"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "LEA   AX，[BX][SI]"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "D",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_ocfxijzqc7_9"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 10,
+			"smallItemId": 6202678,
+			"examScoreDetailId": "94048670",
+			"samllItemName": "用户为了解决自己的问题，用汇编语言所编写的程序，称为（    ）",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "目标程序"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "汇编语言源程序"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "可执行程序"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "汇编程序"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "B",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_5ma85iomin_8"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 11,
+			"smallItemId": 6202661,
+			"examScoreDetailId": "94048671",
+			"samllItemName": "下面指令中，合理而有意义的指令是（ ）",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "REP LODSB"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "REP SCASB"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "REP CMPSB"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "REP MOVSB"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "D",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_8ioykirot5_25"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 12,
+			"smallItemId": 6202679,
+			"examScoreDetailId": "94048672",
+			"samllItemName": "将DX的内容除以2，正确的指令是（  C   ）",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "DIV  2"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "DIV   DX，2"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "SAR  DX，1"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "SHL  DX，1"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "C",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_cjwdmgjf8r_7"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 13,
+			"smallItemId": 6202680,
+			"examScoreDetailId": "94048673",
+			"samllItemName": "串指令中的目的操作数地址一定是由_____  _提供。",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "ES：[DI]"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "SS：[BP]"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "DS：[SI]"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "CS：[IP]"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "A",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_p5lm1n5zb2_6"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 14,
+			"smallItemId": 6202681,
+			"examScoreDetailId": "94048674",
+			"samllItemName": "SI或DI执行上述两条指令后，正确的结果是（      ）。",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "AX）\u003d1001H"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "AX）\u003d0FFFH"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "（AX）\u003d1000H"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "AX）\u003d0111H"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "B",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_lyww35yihb_5"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 15,
+			"smallItemId": 6202682,
+			"examScoreDetailId": "94048675",
+			"samllItemName": "8086CPU在基址加变址的寻址方式中，变址寄存器可以为（   ）",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "BX或CX"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "CX或SI"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "DX或SI"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "SI或DI"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "D",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_gu0iuxvrxx_4"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 16,
+			"smallItemId": 6202683,
+			"examScoreDetailId": "94048676",
+			"samllItemName": "条件转移指令JNE的测试条件为 （     ）。",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "ZF\u003d0"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "CF＝0"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "ZF\u003d1"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "CF\u003d1"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "A",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_1grtidezek_3"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 17,
+			"smallItemId": 6202684,
+			"examScoreDetailId": "94048677",
+			"samllItemName": "在下列指令的中，不能实现把AX寄存器内容清零的指令是（     ）",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "SUB  AX，AX"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "XOR  AX，AX"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "OR   AX，0000H"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "AND  AX，0000H"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "C",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_bsvuhyk7sa_2"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 18,
+			"smallItemId": 6202685,
+			"examScoreDetailId": "94048678",
+			"samllItemName": "一个有128个字的数据区，它的起始地址为12ABH：00ABH，请给出这个数据区第一个字单元的物理地址是（     ）。",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "12B5BH"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "12B6BH"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "12C59H"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "12BFEH"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "A",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_t7rj6j0fj5_1"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 19,
+			"smallItemId": 6202662,
+			"examScoreDetailId": "94048679",
+			"samllItemName": "完成将累加器 AL 清零，并使进位标志 CF 清零，下面错误的指令是（ ）",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "MOV AL,00H"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "AND AL,00H"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "XOR AL,AL"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "SUB AL,AL"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "A",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_grzeioedur_24"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 20,
+			"smallItemId": 6202663,
+			"examScoreDetailId": "94048680",
+			"samllItemName": "下面各传送指令中，正确的是（  ）",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "MOV [DI]，[SI]"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "MOV[DX+DI]，AL"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "MOV WORD PTR [BX]，0100H"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "MOV ALBX"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "C",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_x2ydjfkdq0_23"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 21,
+			"smallItemId": 6202664,
+			"examScoreDetailId": "94048681",
+			"samllItemName": "完成对 CL 寄存器的内容乘以 4 的正确操作是（  )",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "ROL CL，1"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "MUL 4 ROL CL，1"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "SHL CL，1"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "MOV CL，2  SHL CL，1 SHL CL，CL"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "C",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_8q7jm0vdt3_22"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 22,
+			"smallItemId": 6202665,
+			"examScoreDetailId": "94048682",
+			"samllItemName": "当执行指令 ADD AX，BX 后，若 AX 的内容为 2BA0H，设置的奇偶标志位 PF＝1，下面的叙  述正确的是（ ）",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "表示结果中含 1 的个数为偶数"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "表示结果中含 1 的个数为奇数"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "表示该数为偶数"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "表示结果中低八位含 1 的个数为偶数"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "D",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_yv9uzooc7k_21"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 23,
+			"smallItemId": 6202666,
+			"examScoreDetailId": "94048683",
+			"samllItemName": "为使 CX\u003d-1 时，转至 MINUS 而编制了一指令序列，其中错误的序列是(  )",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "INC CX JZ MINUS"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "SUB CX，OFFFFH JZ MINUS"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "AND CX，OFFFFH JZ MINUS"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "XOR CX，OFFFFH JZ MINUS"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "C",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_i8i5byksve_20"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 24,
+			"smallItemId": 6202667,
+			"examScoreDetailId": "94048684",
+			"samllItemName": "下列数值表达式和地址表达式中，错误的是（  ） 。",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "MOV AL，8*14+4"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "MOV SI，OFFSET BUF+13"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "MOV CX，NUM2-NUM1"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "MOV CX，NUM2+NUM1"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "D",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_dm9jowa786_19"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}, {
+			"itemNo": 25,
+			"smallItemId": 6202668,
+			"examScoreDetailId": "94048685",
+			"samllItemName": "将 DX 的内容除以 2，正确的指令是（）",
+			"optionNodes": [{
+				"option": "A",
+				"optionNo": "0",
+				"optionContent": "DIV 2"
+			}, {
+				"option": "B",
+				"optionNo": "1",
+				"optionContent": "DIV DX，2"
+			}, {
+				"option": "C",
+				"optionNo": "2",
+				"optionContent": "SAR DX，1"
+			}, {
+				"option": "D",
+				"optionNo": "3",
+				"optionContent": "SHL DX，1"
+			}],
+			"smallItemAnswer": [{
+				"option": "1",
+				"optionContent": "C",
+				"myOption": "",
+				"status": "",
+				"smallStatus": 0,
+				"score": "4.0",
+				"myOptionKey": "lemonysoft_item_ml8glevu64_18"
+			}],
+			"smallItemType": "3",
+			"smallItemRemark": ""
+		}]
+	},
+	"success": true,
+	"code": 1000,
+	"message": "操作成功",
+	"totalPage": 0,
+	"totalCount": 0
+}
